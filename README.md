@@ -5,25 +5,36 @@
 1. [Project Status](#projectstatus)
 2. [About the Project](#abouttheproject)
 3. [Project Description](#projectdescription)
-4. [Chapter 1: AAAA](#chapter1)
-    - [Chapter 1 - Part 1: aaaa](#chapter1part1)
-    - [Chapter 1 - Part 2: bbbb](#chapter1part2)
-    - [Chapter 1 - Part 3: cccc](#chapter1part3)
-5. [Chapter 2: BBBB](#chapter2)
-    - [Chapter 2 - Part 1: aaaa](#chapter2part1)
-    - [Chapter 2 - Part 2: bbbb](#chapter2part2)
-    - [Chapter 2 - Part 3: cccc](#chapter2part3)
-6. [Chapter 3: CCCC](#chapter3)
-    - [Chapter 3 - Part 1: aaaa](#chapter3part1)
-    - [Chapter 3 - Part 2: bbbb](#chapter3part2)
-    - [Chapter 3 - Part 3: cccc](#chapter3part3)
-7. [Usage](#usage)
-8. [Contributors](#contributors)
-9. [Contributing](#contributing)
-10. [Roadmap](#roadmap)
-11. [To Do](#todo)
-12. [Contacts](#contacts)
-13. [License](#license)
+4. [Chapter 1: Project Scope](#chapter1)
+    - [Chapter 1 - Part 1: Project Scope Diagram](#chapter1part1)
+    - [Chapter 1 - Part 2: Project Scope Example](#chapter1part2)
+5. [Chapter 2: Project Description](#chapter2)
+    - [Chapter 2 - Part 1: Detailing the Project](#chapter2part1)
+    - [Chapter 2 - Part 2: Example of Project Detaling](#chapter2part2)
+    - [Chapter 2 - Part 3: Entities and Entities Attribute in Description](#chapter2part3)
+6. [Chapter 3: Project Use Case](#chapter3)
+    - [Chapter 3 - Part 1: Use Case](#chapter3part1)
+    - [Chapter 3 - Part 2: Use Case Example](#chapter3part2)
+7. [Chapter 4: Project Wireframe](#chapter4)
+    - [Chapter 4 - Part 1: Project Wireframe Design](#chapter4part1)
+    - [Chapter 4 - Part 2: How to Make a Wireframe](#chapter4part2)
+    - [Chapter 4 - Part 3: The Real Wireframw](#chapter4part3)
+8. [Chapter 5: Project Domain Model](#chapter5)
+    - [Chapter 5 - Part 1: Phases of a Project](#chapter5part1)
+    - [Chapter 5 - Part 2: Domain Model Abstraction Level](#chapter5part2)
+    - [Chapter 5 - Part 3: Conceptual Domain Model (Business)](#chapter5part3)
+    - [Chapter 5 - Part 4: Logical Level Domain Model (Relational)](#chapter5part4)
+    - [Chapter 5 - Part 5: Logical Level Domain Model (Object Oriented)](#chapter5part5)
+    - [Chapter 5 - Part 6: Physical Level Domain Model (Relational)](#chapter5part6)
+    - [Chapter 5 - Part 7: Physical Level Domain Model (Object Oriented)](#chapter5part7)
+    - [Chapter 5 - Part 8: The Example Domain Model](#chapter5part8)
+9. [Usage](#usage)
+10. [Contributors](#contributors)
+11. [Contributing](#contributing)
+12. [Roadmap](#roadmap)
+13. [To Do](#todo)
+14. [Contacts](#contacts)
+15. [License](#license)
 
 # Project Status <a name="projectstatus"></a>
 
@@ -151,22 +162,15 @@ See the [![Issues][issues-shield]][issues-url]  for a list of proposed features 
 
 # To Do <a name="todo"></a>
 
-If so, list tasks / features that still need to be implemented in your application
-
-:memo: To Do 1 
-
-:memo: To Do 2
-
-:memo: To Do 3 
-
+Project Completed
 
 # Contacts <a name="contacts"></a>
 
-| Vitor Garcia                                     | Column 2                                   | Column 3     |
-| :----------------------------------------------- | :-----------------------------------------:| -----------: |
-| [![LinkedIn][linkedin-shield]][linkedin-url]     | More Stuff                                 | And Again    |
-| [![Portfolio][portfolio-shield]][portfolio-url]  | Put Pipes In                               | Like this    |
-| [![GitHub][github-shield]][github-url]           | Put Pipes In                               | Like this    |
+| Vitor Garcia                                     |
+| :----------------------------------------------- |
+| [![LinkedIn][linkedin-shield]][linkedin-url]     |
+| [![Portfolio][portfolio-shield]][portfolio-url]  |
+| [![GitHub][github-shield]][github-url]           |
 
 # License <a name="License"></a>
 
@@ -221,7 +225,7 @@ https://unsplash.com/
 [github-shield]: https://img.shields.io/badge/my-github-green.svg
 [github-url]: https://github.com/vitorstabile
 [issues-shield]: https://img.shields.io/badge/link-issues-green.svg
-[issues-url]: https://github.com/vitorstabile/tutorial-template-readme/issues
+[issues-url]: https://github.com/vitorstabile/projects-design-basics/issues
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
 [license-url]: https://github.com/vitorstabile/projects-design-basics/blob/master/LICENSE.txt
 [pdf-url]: https://github.com/vitorstabile/projects-design-basics/blob/master/Apostila%20An%C3%A1lise%20e%20Design%20de%20Sistemas%20-%20Nelio%20Alves%20-%20Ed%202020.pdf
