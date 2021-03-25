@@ -1,4 +1,4 @@
-<h1 align="center"> Basic Project Design </h1>
+<h1 align="center"> Basic Tutorial of Project Design </h1>
 
 # Content
 
