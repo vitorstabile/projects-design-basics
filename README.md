@@ -1,4 +1,4 @@
-<h1 align="center"> Basic Template to Create Tutorials </h1>
+<h1 align="center"> Basic Project Design </h1>
 
 # Content
 
@@ -26,8 +26,6 @@
 13. [License](#license)
 
 # Project Status <a name="projectstatus"></a>
-
-Project Status: Under Development :warning:
 
 Project Status: Concluded :heavy_check_mark:
 
@@ -215,7 +213,7 @@ https://unsplash.com/
 <!-- MY BADGES -->
 
 [project-shield]: https://img.shields.io/badge/link-project-green.svg
-[project-url]: https://github.com/vitorstabile/tutorial-template-readme
+[project-url]: https://github.com/vitorstabile/projects-design-basics
 [linkedin-shield]: https://img.shields.io/badge/my-linkedin-blue.svg 
 [linkedin-url]: https://www.linkedin.com/in/vitor-stabile-garcia-5b151b67
 [portfolio-shield]: https://img.shields.io/badge/my-portfolio-red.svg
@@ -225,4 +223,5 @@ https://unsplash.com/
 [issues-shield]: https://img.shields.io/badge/link-issues-green.svg
 [issues-url]: https://github.com/vitorstabile/tutorial-template-readme/issues
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
-[license-url]: https://github.com/vitorstabile/tutorial-template-readme/blob/main/LICENSE.txt
+[license-url]: https://github.com/vitorstabile/projects-design-basics/blob/master/LICENSE.txt
+[pdf-url]: https://github.com/vitorstabile/projects-design-basics/blob/master/Apostila%20An%C3%A1lise%20e%20Design%20de%20Sistemas%20-%20Nelio%20Alves%20-%20Ed%202020.pdf
