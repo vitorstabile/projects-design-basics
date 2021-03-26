@@ -64,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="img/img/chapter1/project-scope-w1296-h720.jpg" width=300 height=300><br><sub>Fig 1 - Project Scope</sub></div>
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: Project Scope Example
 
