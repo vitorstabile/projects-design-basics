@@ -152,7 +152,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="img/chapter5/project-phase-w1421-h802.jpg" width=300 height=300><br><sub>Fig 11 - Phases of a Project</sub></div>
+
+<div align="center"><img src="img/chapter5/project-phase-2-w1208-h686.jpg" width=300 height=300><br><sub>Fig 12 - Phases of a Project</sub></div>
 
 #### <a name="chapter5part2"></a>Chapter 5 - Part 2: Domain Model Abstraction Level
 
@@ -160,7 +162,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="img/chapter5/project-phase-3-w1190-h601.jpg" width=300 height=300><br><sub>Fig 13 - Domain Model Abstraction Level</sub></div>
+
+<div align="center"><img src="img/chapter5/project-phase-4-w889-h505.jpg" width=300 height=300><br><sub>Fig 14 - Domain Model Abstraction Level</sub></div>
 
 #### <a name="chapter5part3"></a>Chapter 5 - Part 3: Conceptual Domain Model (Business)
 
@@ -168,7 +172,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="img/chapter5/project-phase-5-w1427-h806.jpg" width=300 height=300><br><sub>Fig 15 - Conceptual Domain Model (Business)</sub></div>
 
 #### <a name="chapter5part4"></a>Chapter 5 - Part 4: Logical Level Domain Model (Relational)
 
@@ -176,7 +180,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="img/chapter5/project-phase-6-w1441-h811.jpg.jpg" width=300 height=300><br><sub>Fig 16 - Logical Level Domain Model (Relational)</sub></div>
 
 #### <a name="chapter5part5"></a>Chapter 5 - Part 5: Logical Level Domain Model (Object Oriented)
 
@@ -184,7 +188,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="/img/chapter5/project-phase-7-w1438-h814.jpg" width=300 height=300><br><sub>Fig 17 - Logical Level Domain Model (Object Oriented)</sub></div>
 
 #### <a name="chapter5part6"></a>Chapter 5 - Part 6: Physical Level Domain Model (Relational)
 
@@ -192,7 +196,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="img/chapter5/project-phase-9-w1432-h811.jpg" width=300 height=300><br><sub>Fig 18 - Physical Level Domain Model (Relational)</sub></div>
 
 #### <a name="chapter5part7"></a>Chapter 5 - Part 7: Physical Level Domain Model (Object Oriented)
 
@@ -200,7 +204,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="img/chapter5/project-phase-10-w1440-h818.jpg" width=300 height=300><br><sub>Fig 19 - Physical Level Domain Model (Object Oriented)</sub></div>
 
 #### <a name="chapter5part8"></a>Chapter 5 - Part 8: The Example Domain Model
 
