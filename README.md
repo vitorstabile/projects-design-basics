@@ -18,7 +18,7 @@
 7. [Chapter 4: Project Wireframe](#chapter4)
     - [Chapter 4 - Part 1: Project Wireframe Design](#chapter4part1)
     - [Chapter 4 - Part 2: How to Make a Wireframe](#chapter4part2)
-    - [Chapter 4 - Part 3: The Real Wireframw](#chapter4part3)
+    - [Chapter 4 - Part 3: The Real Wireframe](#chapter4part3)
 8. [Chapter 5: Project Domain Model](#chapter5)
     - [Chapter 5 - Part 1: Phases of a Project](#chapter5part1)
     - [Chapter 5 - Part 2: Domain Model Abstraction Level](#chapter5part2)
@@ -118,17 +118,9 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-## <a name="chapter4"></a>Chapter 4: Project Description
+## <a name="chapter4"></a>Chapter 4: Project Wireframe
 
-#### <a name="chapter4part1"></a>Chapter 4 - Part 1: Use Case
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
-
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
-
-#### <a name="chapter4part2"></a>Chapter 4 - Part 2: Use Case Example
+#### <a name="chapter4part1"></a>Chapter 4 - Part 1: Project Wireframe Design
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -136,7 +128,15 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-#### <a name="chapter4part3"></a>Chapter 4 - Part 3: Use Case Example
+#### <a name="chapter4part2"></a>Chapter 4 - Part 2: How to Make a Wireframe
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter4part3"></a>Chapter 4 - Part 3: The Real Wireframe
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
