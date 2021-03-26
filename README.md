@@ -72,8 +72,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
-
 ## <a name="chapter2"></a>Chapter 2: Project Description
 
 #### <a name="chapter2part1"></a>Chapter 2 - Part 1: Detailing the Project
@@ -82,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="img/chapter2/project-description-w686-h622.jpg" width=300 height=300><br><sub>Fig 2 - Project Description</sub></div>
 
 #### <a name="chapter2part2"></a>Chapter 2 - Part 2: Example of Project Detaling
 
@@ -90,15 +88,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
-
 #### <a name="chapter2part3"></a>Chapter 2 - Part 3: Entities and Entities Attribute in Description
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
-
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
 ## <a name="chapter3"></a>Chapter 3: Project Use Case
 
@@ -108,15 +102,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="img/chapter3/project-use-case-w1006-h655.jpg" width=300 height=300><br><sub>Fig 3 - Project Use Case</sub></div>
 
 #### <a name="chapter3part2"></a>Chapter 3 - Part 2: Use Case Example
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
-
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
 ## <a name="chapter4"></a>Chapter 4: Project Wireframe
 
@@ -126,7 +118,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-w1295-h511.jpg" width=300 height=300><br><sub>Fig 4 - Project Wireframe</sub></div>
+
+<div align="center"><img src="img/chapter4/project-wireframe-2-w1063-h762.jpg" width=300 height=300><br><sub>Fig 5 - Project Web Wireframe</sub></div>
+
+<div align="center"><img src="img/chapter4/project-wireframe-3-w861-h755.jpg" width=300 height=300><br><sub>Fig 6 - Project Mobile Wireframe</sub></div>
 
 #### <a name="chapter4part2"></a>Chapter 4 - Part 2: How to Make a Wireframe
 
@@ -134,15 +130,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
-
 #### <a name="chapter4part3"></a>Chapter 4 - Part 3: The Real Wireframe
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-4-w1103-h807.jpg" width=300 height=300><br><sub>Fig 7 - Project Real Wireframe</sub></div>
+
+<div align="center"><img src="img/chapter4/project-wireframe-5-w950-h794.jpg" width=300 height=300><br><sub>Fig 8 - Project Real Wireframe</sub></div>
+
+<div align="center"><img src="img/chapter4/project-wireframe-6-w950-h421.jpg" width=300 height=300><br><sub>Fig 9 - Project Real Wireframe</sub></div>
+
+<div align="center"><img src="img/chapter4/project-wireframe-7-w1215-h737.jpg" width=300 height=300><br><sub>Fig 10 - Project Real Wireframe</sub></div>
 
 ## <a name="chapter5"></a>Chapter 5: Project Domain Model
 
