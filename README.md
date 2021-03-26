@@ -100,7 +100,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-## <a name="chapter3"></a>Chapter 3: Project Wireframe
+## <a name="chapter3"></a>Chapter 3: Project Use Case
 
 #### <a name="chapter3part1"></a>Chapter 3 - Part 1: Use Case
 
