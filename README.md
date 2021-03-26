@@ -189,7 +189,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/chapter5/project-phase-6-w1441-h811.jpg.jpg" width=300 height=300><br><sub>Fig 17 - Logical Level Domain Model (Relational)</sub></div>
+<div align="center"><img src="img/chapter5/project-phase-7-w1438-h814.jpg" width=300 height=300><br><sub>Fig 17 - Logical Level Domain Model (Relational)</sub></div>
 
 #### <a name="chapter5part6"></a>Chapter 5 - Part 6: Logical Level Domain Model (Object Oriented)
 
@@ -197,7 +197,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="/img/chapter5/project-phase-7-w1438-h814.jpg" width=300 height=300><br><sub>Fig 18 - Logical Level Domain Model (Object Oriented)</sub></div>
+<div align="center"><img src="img/chapter5/project-phase-8-w1429-h809.jpg" width=300 height=300><br><sub>Fig 18 - Logical Level Domain Model (Object Oriented)</sub></div>
 
 #### <a name="chapter5part7"></a>Chapter 5 - Part 7: Physical Level Domain Model (Relational)
 
@@ -221,15 +221,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/chapter5/project-phase-10-w1440-h818.jpg" width=300 height=300><br><sub>Fig 21 - Physical Level Domain Model (Object Oriented)</sub></div>
+<div align="center"><img src="img/chapter5/conceptual-model-example-w1235-h695.jpg" width=300 height=300><br><sub>Fig 21 - The Example Domain Model</sub></div>
+
+<div align="center"><img src="img/chapter5/conceptual-model-instance-example-w1459-h688.jpg" width=300 height=300><br><sub>Fig 22 - The Example Domain Model</sub></div>
 
 
 # Usage <a name="usage"></a>
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more
-resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Using this like a bibliography if you want to remember project design concepts. For more information, use this [PDF][pdf-url]
 
 # Contributors <a name="contributors"></a>
 
