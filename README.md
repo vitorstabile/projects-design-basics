@@ -168,6 +168,8 @@ Down below, is the wireframe example of the home page and the products page in a
 
 <div align="center"><img src="img/chapter4/project-wireframe-2-w1063-h762.jpg" width=1063 height=762><br><sub>Fig 5 - Project Web Wireframe</sub></div>
 
+Down below, is the wireframe in the mobile app.
+
 <div align="center"><img src="img/chapter4/project-wireframe-3-w861-h755.jpg" width=861 height=755><br><sub>Fig 6 - Project Mobile Wireframe</sub></div>
 
 #### <a name="chapter4part3"></a>Chapter 4 - Part 3: The Real Wireframe
