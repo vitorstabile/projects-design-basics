@@ -111,11 +111,11 @@ In the example below, we will make a scope of a simple project.
 
 #### <a name="chapter2part1"></a>Chapter 2 - Part 1: Detailing the Project
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+After make the project scope, we have to make a detail description of the project.
 
-<div align="center"><img src="img/chapter2/project-description-w686-h622.jpg" width=300 height=300><br><sub>Fig 2 - Project Description</sub></div>
+Make a description of the project is put all the details of the software (what he will have, the entities and the relation with them). Just make a simple description and pay attention in this details.
+
+<div align="center"><img src="img/chapter2/project-description-w660-h600.jpg" width=300 height=300><br><sub>Fig 2 - Project Description Example</sub></div>
 
 #### <a name="chapter2part2"></a>Chapter 2 - Part 2: Example of Project Detaling
 
