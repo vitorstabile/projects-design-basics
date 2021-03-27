@@ -77,35 +77,35 @@ In the example below, we will make a scope of a simple project.
 
 1. **Scope Description**
 
-Purpose of the project is to optimize the delivery and order register client in GoodPi Pizzeria located in São Paulo, Brazil.
+    Purpose of the project is to optimize the delivery and order register client in GoodPi Pizzeria located in São Paulo, Brazil.
 
 2. **Project Deliverables**
 
-**major project activities:**
-- project planning
-- requirement specification
-- software installation
-- adjust software to client’s needs
-- training of pizzeria employers and couriers staff
+    **major project activities:**
+    - project planning
+    - requirement specification
+    - software installation
+    - adjust software to client’s needs
+    - training of pizzeria employers and couriers staff
 
-**deliverables:**
-- project schedule
-- requirement specification document
-- ready-to-use system
-- training plan
-- training manual
+    **deliverables:**
+    - project schedule
+    - requirement specification document
+    - ready-to-use system
+    - training plan
+    - training manual
 
 3. **Acceptance Criteria**
 
-Successful move to new system solution over the weekend (10/27/19 – 10/28/19).
+    Successful move to new system solution over the weekend (10/27/19 – 10/28/19).
 
 4. **Constraints**
 
-Due to delivery commitments to customers the system transition must be performed during the weekend.
+    Due to delivery commitments to customers the system transition must be performed during the weekend.
 
 5. **Assumptions**
 
-InventoryMaster consultants take over installation and configuration of software.
+    InventoryMaster consultants take over installation and configuration of software.
 
 ## <a name="chapter2"></a>Chapter 2: Project Description
 
