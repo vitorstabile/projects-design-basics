@@ -43,7 +43,7 @@ Project Status: Concluded :heavy_check_mark:
 
 # About the Project <a name="abouttheproject"></a>
 
-This project have a propose to introduce the reader to basic concepts in (put the theme her)
+This project have a propose to introduce the reader to basic concepts of create a software project.
 
 [![Project][project-shield]][project-url] <!-- Put the link of the github page of the tutorial her -->
 
@@ -82,18 +82,18 @@ In the example below, we will make a scope of a simple project.
 2. **Project Deliverables**
 
     **major project activities:**
-    - project planning
-    - requirement specification
-    - software installation
-    - adjust software to client’s needs
-    - training of pizzeria employers and couriers staff
+    - project planning.
+    - requirement specification.
+    - software installation.
+    - adjust software to client’s needs.
+    - training of pizzeria employers and couriers staff.
 
     **deliverables:**
-    - project schedule
-    - requirement specification document
-    - ready-to-use system
-    - training plan
-    - training manual
+    - project schedule.
+    - requirement specification document.
+    - ready-to-use system.
+    - training plan.
+    - training manual.
 
 3. **Acceptance Criteria**
 
@@ -160,15 +160,15 @@ A wireframe is a two-dimensional skeletal outline of a webpage or app. Wireframe
 
 <div align="center"><img src="img/chapter4/project-wireframe-w1295-h511.jpg" width=1295 height=511><br><sub>Fig 4 - Project Wireframe</sub></div>
 
-<div align="center"><img src="img/chapter4/project-wireframe-2-w1063-h762.jpg" width=300 height=300><br><sub>Fig 5 - Project Web Wireframe</sub></div>
-
-<div align="center"><img src="img/chapter4/project-wireframe-3-w861-h755.jpg" width=300 height=300><br><sub>Fig 6 - Project Mobile Wireframe</sub></div>
-
 #### <a name="chapter4part2"></a>Chapter 4 - Part 2: How to Make a Wireframe
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+We can make a simple wireframe, using [Figma][figma-url] or [Adobe XD][adobexd-url] to make a simple wireframe. You will make a draft of the user interfaces and the UI/UX will develop the user interface. propertily.
+
+Down below, is the wireframe example of the home page and the products page in a computer view.
+
+<div align="center"><img src="img/chapter4/project-wireframe-2-w1063-h762.jpg" width=1063 height=762><br><sub>Fig 5 - Project Web Wireframe</sub></div>
+
+<div align="center"><img src="img/chapter4/project-wireframe-3-w861-h755.jpg" width=861 height=755><br><sub>Fig 6 - Project Mobile Wireframe</sub></div>
 
 #### <a name="chapter4part3"></a>Chapter 4 - Part 3: The Real Wireframe
 
@@ -357,3 +357,5 @@ https://unsplash.com/
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
 [license-url]: https://github.com/vitorstabile/projects-design-basics/blob/master/LICENSE.txt
 [pdf-url]: https://github.com/vitorstabile/projects-design-basics/blob/master/Apostila%20An%C3%A1lise%20e%20Design%20de%20Sistemas%20-%20Nelio%20Alves%20-%20Ed%202020.pdf
+[figma-url]: https://www.figma.com/
+[adobexd-url]: https://www.adobe.com/products/xd.html
