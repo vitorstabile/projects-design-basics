@@ -49,13 +49,9 @@ This project have a propose to introduce the reader to basic concepts in (put th
 
 # Project Description <a name="projectdescription"></a>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. Curabitur
-lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. Sed tincidunt
-mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis
+This project have the object to introduce the reader the basics of "How to start and create a software" in the development world. I think, many of us, have the skills of programm (knowledge in oriented object programm language, relational database, Front-end tools like HTML, CSS and Javascript) but don't have the basics of how to get the ideia that is in the head and pass to a paper.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. Curabitur
-lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. Sed tincidunt
-mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis
+This tutorial will show a basic way in step-by-step form how to start simple project.
   
 ## <a name="chapter1"></a>Chapter 1: Project Scope
 
