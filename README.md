@@ -127,7 +127,7 @@ The pizzeria GoodPi, want to implement a order and delivery system. The client e
 
 After the description, check what is will be your entities and entities attributes in the description:
 
-<font color='red'>test blue color font</font>
+ ==this text is highlighted==
 
 The pizzeria GoodPi, want to implement a order and delivery system. The client enter in the website of the GoodPi and select the product that he want. This product have a id, name, price, description and image. After the client register the order, this order will generate a localization (latitude and longitude) of the client and a moment that will be send to the courier to the delivery and will be generated to the courier a map with the delivery address of the client. The order have a status and a total of the order. Each order have a localization and a order can have multiple products.
 
