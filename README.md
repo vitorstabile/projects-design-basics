@@ -218,7 +218,7 @@ The Domain Model have abstraction levels, like below.
 
 | Level                                           | Responsible                                                   | Objective | Tools |                           
 |:------------------------------------------------|---------------------------------------------------------------|-----------|------:|
-| Conceptual Domain Model (Business)              | Business analyst                                              | Describe the domain (business) entities and their interrelationships: Regardless of the System                                                                                          |
+| Conceptual Domain Model (Business)              | Business analyst                                              | Describe the domain (business) entities and their interrelationships: Regardless of the System                                                                                  | MER - Class Diagram Without OOP Elements|
 | Conceptual Domain Model (System)                | Systems Analyst                                               |
 | Logical Level Domain Model (Relational)         | Designer                                                      |
 | Logical Level Domain Model (Object Oriented)    | Designer                                                      |
