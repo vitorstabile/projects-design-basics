@@ -127,7 +127,7 @@ The pizzeria GoodPi, want to implement a order and delivery system. The client e
 
 After the description, check what is will be your entities and entities attributes in the description:
 
-<span style="color:blue">some *blue* text</span>.
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 <mark style="background-color: green">Green</mark>
 
