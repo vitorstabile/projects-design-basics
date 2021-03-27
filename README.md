@@ -125,9 +125,13 @@ The pizzeria GoodPi, want to implement a order and delivery system. The client e
 
 #### <a name="chapter2part3"></a>Chapter 2 - Part 3: Entities and Entities Attribute in Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+After the description, check what is will be your entities and entities attributes in the description:
+
+<span style="background-color: #00FF00">Green</span> = Entity
+<span style="background-color: #FFFF00">Yellow</span> = Entity Attribute
+<span style="background-color: 	#FF00FF">Purple</span> = Entity Relation
+
+The pizzeria GoodPi, want to implement a order and delivery system. The client enter in the website of the GoodPi and select the product that he want. This product have a id, name, price, description and image. After the client register the order, this order will generate a localization (latitude and longitude) of the client and a moment that will be send to the courier to the delivery and will be generated to the courier a map with the delivery address of the client. The order have a status and a total of the order. Each order have a localization and a order can have multiple products.
 
 ## <a name="chapter3"></a>Chapter 3: Project Use Case
 
