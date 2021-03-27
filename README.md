@@ -57,11 +57,11 @@ This tutorial will show a basic way in step-by-step form how to start simple pro
 
 #### <a name="chapter1part1"></a>Chapter 1 - Part 1: Project Scope Diagram
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+The Project Scope is the first part of how to elaborate a project.
 
-<div align="center"><img src="/img/chapter1/project-scope-w1296-h720.jpg" width=300 height=300><br><sub>Fig 1 - Project Scope</sub></div>
+In the project scope, we will elaborate the delimitations of the project, what is part of the project and what is not and another aspects like goals, deliveries, tasks, responsabilities, deadlines and costs.
+
+<div align="center"><img src="/img/chapter1/project-scope-w1296-h720.jpg" width=1080 height=600><br><sub>Fig 1 - Project Scope</sub></div>
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: Project Scope Example
 
