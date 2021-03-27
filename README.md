@@ -204,15 +204,11 @@ The phases of a project consist in disciplines (Bussiness Modelling, Requirement
 
 <div align="center"><img src="img/chapter5/project-phase-w1421-h802.jpg" width=1421 height=802><br><sub>Fig 11 - Phases of a Project</sub></div>
 
-<div align="center"><img src="img/chapter5/project-phase-2-w1208-h686.jpg" width=300 height=300><br><sub>Fig 12 - Phases of a Project</sub></div>
-
 #### <a name="chapter5part2"></a>Chapter 5 - Part 2: Domain Model Abstraction Level
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+The Domain Model is required in the Bussiness Modelling, Requirements and Analysis & Design phase
 
-<div align="center"><img src="img/chapter5/project-phase-3-w1190-h601.jpg" width=300 height=300><br><sub>Fig 13 - Domain Model Abstraction Level</sub></div>
+<div align="center"><img src="img/chapter5/project-phase-3-w1190-h601.jpg" width=1190 height=601><br><sub>Fig 13 - Domain Model Abstraction Level</sub></div>
 
 <div align="center"><img src="img/chapter5/project-phase-4-w889-h505.jpg" width=300 height=300><br><sub>Fig 14 - Domain Model Abstraction Level</sub></div>
 
