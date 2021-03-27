@@ -162,7 +162,7 @@ A wireframe is a two-dimensional skeletal outline of a webpage or app. Wireframe
 
 #### <a name="chapter4part2"></a>Chapter 4 - Part 2: How to Make a Wireframe
 
-We can make a simple wireframe, using [Figma][figma-url] or [Adobe XD][adobexd-url] to make a simple wireframe. You will make a draft of the user interfaces and the UI/UX will develop the user interface. propertily.
+We can make a simple wireframe, using [Figma][figma-url] or [Adobe XD][adobexd-url] to make a simple wireframe. You will make a draft of the user interfaces and the UI/UX designer will develop the user interface propertily.
 
 Down below, is the wireframe example of the home page and the products page in a computer view.
 
@@ -174,17 +174,15 @@ Down below, is the wireframe in the mobile app.
 
 #### <a name="chapter4part3"></a>Chapter 4 - Part 3: The Real Wireframe
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+After present the draft models of the wireframe to UI/UX designer, he will make the properly interface, like below.
 
-<div align="center"><img src="img/chapter4/project-wireframe-4-w1103-h807.jpg" width=300 height=300><br><sub>Fig 7 - Project Real Wireframe</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-4-w1103-h807.jpg" width=1103 height=807><br><sub>Fig 7 - UI/UX Interface</sub></div>
 
-<div align="center"><img src="img/chapter4/project-wireframe-5-w950-h794.jpg" width=300 height=300><br><sub>Fig 8 - Project Real Wireframe</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-5-w950-h794.jpg" width=950 height=794><br><sub>Fig 8 - UI/UX Interface</sub></div>
 
-<div align="center"><img src="img/chapter4/project-wireframe-6-w950-h421.jpg" width=300 height=300><br><sub>Fig 9 - Project Real Wireframe</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-6-w950-h421.jpg" width=950 height=421><br><sub>Fig 9 - UI/UX Interface</sub></div>
 
-<div align="center"><img src="img/chapter4/project-wireframe-7-w1215-h737.jpg" width=300 height=300><br><sub>Fig 10 - Project Real Wireframe</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-7-w1215-h737.jpg" width=1215 height=737><br><sub>Fig 10 - UI/UX Interface</sub></div>
 
 ## <a name="chapter5"></a>Chapter 5: Project Domain Model
 
