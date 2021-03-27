@@ -156,11 +156,9 @@ In the example below, we will make a use case of the project we are using like e
 
 #### <a name="chapter4part1"></a>Chapter 4 - Part 1: Project Wireframe Design
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+A wireframe is a two-dimensional skeletal outline of a webpage or app. Wireframes provide a clear overview of the page structure, layout, information architecture, user flow, functionality, and intended behaviors. As a wireframe usually represents the initial product concept, styling, color, and graphics are kept to a minimum. Wireframes can be drawn by hand or created digitally, depending on how much detail is required.
 
-<div align="center"><img src="img/chapter4/project-wireframe-w1295-h511.jpg" width=300 height=300><br><sub>Fig 4 - Project Wireframe</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-w1295-h511.jpg" width=1295 height=511><br><sub>Fig 4 - Project Wireframe</sub></div>
 
 <div align="center"><img src="img/chapter4/project-wireframe-2-w1063-h762.jpg" width=300 height=300><br><sub>Fig 5 - Project Web Wireframe</sub></div>
 
