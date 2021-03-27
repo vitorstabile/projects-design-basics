@@ -216,9 +216,9 @@ The Domain Model have abstraction levels, like below.
 
 <div align="center"><img src="img/chapter5/project-phase-4-w889-h505.jpg" width=889 height=505><br><sub>Fig 14 - Domain Model Abstraction Level</sub></div>
 
-| Level                                           | Responsible                                                   | Objective | Tools |                           
-|:------------------------------------------------|---------------------------------------------------------------|-----------|------:|
-| Conceptual Domain Model (Business)              | Business analyst                                              | Describe the domain (business) entities and their interrelationships: Regardless of the System                                                                                  | MER - Class Diagram Without OOP Elements|
+| Level                                           | Responsible                                                   | Objective                     | Tools            |         
+|:------------------------------------------------|---------------------------------------------------------------|-------------------------------|-----------------:|
+| Conceptual Domain Model (Business)              | Business analyst                                              | Describe the domain                                                                                                                                                               (business) entities and thei                                                                                                                                                     interrelationships:                                                                                                                                                               Regardless of the System                         |
 | Conceptual Domain Model (System)                | Systems Analyst                                               |
 | Logical Level Domain Model (Relational)         | Designer                                                      |
 | Logical Level Domain Model (Object Oriented)    | Designer                                                      |
