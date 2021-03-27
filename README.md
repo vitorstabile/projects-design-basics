@@ -176,13 +176,13 @@ Down below, is the wireframe in the mobile app.
 
 After present the draft models of the wireframe to UI/UX designer, he will make the properly interface, like below.
 
-<div align="center"><img src="img/chapter4/project-wireframe-4-w1103-h807.jpg" width=1103 height=807><br><sub>Fig 7 - UI/UX Interface</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-4-w1103-h807.jpg" width=1103 height=807><br><sub>Fig 7 - UI/UX Web Interface</sub></div>
 
-<div align="center"><img src="img/chapter4/project-wireframe-5-w950-h794.jpg" width=950 height=794><br><sub>Fig 8 - UI/UX Interface</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-5-w950-h794.jpg" width=950 height=794><br><sub>Fig 8 - UI/UX Web Interface</sub></div>
 
-<div align="center"><img src="img/chapter4/project-wireframe-6-w950-h421.jpg" width=950 height=421><br><sub>Fig 9 - UI/UX Interface</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-6-w950-h421.jpg" width=950 height=421><br><sub>Fig 9 - UI/UX Web Interface</sub></div>
 
-<div align="center"><img src="img/chapter4/project-wireframe-7-w1215-h737.jpg" width=1215 height=737><br><sub>Fig 10 - UI/UX Interface</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-7-w1215-h737.jpg" width=1215 height=737><br><sub>Fig 10 - UI/UX App Interface</sub></div>
 
 ## <a name="chapter5"></a>Chapter 5: Project Domain Model
 
