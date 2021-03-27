@@ -210,11 +210,23 @@ The Domain Model is required in the Bussiness Modelling, Requirements and Analys
 
 <div align="center"><img src="img/chapter5/project-phase-2-w1208-h686.jpg" width=1208 height=686><br><sub>Fig 12 - Domain Model Phases Required Level</sub></div>
 
-The Domain Model have abstrtaction levels, like below.
+The Domain Model have abstraction levels, like below.
 
 <div align="center"><img src="img/chapter5/project-phase-3-w1190-h601.jpg" width=1190 height=601><br><sub>Fig 13 - Domain Model Abstraction Level</sub></div>
 
-<div align="center"><img src="img/chapter5/project-phase-4-w889-h505.jpg" width=300 height=300><br><sub>Fig 14 - Domain Model Abstraction Level</sub></div>
+<div align="center"><img src="img/chapter5/project-phase-4-w889-h505.jpg" width=889 height=505><br><sub>Fig 14 - Domain Model Abstraction Level</sub></div>
+
+| Level                                           | Responsible                                                   | Objective | Tools |                           
+|:------------------------------------------------|---------------------------------------------------------------|-----------|------:|
+| Conceptual Domain Model (Business)              | Business analyst                                              | Describe the domain (business) entities and their interrelationships: Regardless of the System                                                                                          |
+| Conceptual Domain Model (System)                | Systems Analyst                                               |
+| Logical Level Domain Model (Relational)         | Designer                                                      |
+| Logical Level Domain Model (Object Oriented)    | Designer                                                      |
+| Physical Level Domain Model (Relational)        | Implementer                                                   |
+| Physical Level Domain Model (Object Oriented)   | Implementer                                                   |
+
+
+
 
 #### <a name="chapter5part3"></a>Chapter 5 - Part 3: Conceptual Domain Model (Business)
 
