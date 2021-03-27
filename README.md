@@ -115,7 +115,7 @@ After make the project scope, we have to make a detail description of the projec
 
 Make a description of the project is put all the details of the software (what he will have, the entities and the relation with them). Just make a simple description and pay attention in this details.
 
-<div align="center"><img src="img/chapter2/project-description-w660-h600.jpg" width=300 height=300><br><sub>Fig 2 - Project Description Example</sub></div>
+<div align="center"><img src="img/chapter2/project-description-w686-h622.jpg" width=660 height=600><br><sub>Fig 2 - Project Description Example</sub></div>
 
 #### <a name="chapter2part2"></a>Chapter 2 - Part 2: Example of Project Detaling
 
