@@ -61,13 +61,20 @@ The Project Scope is the first part of how to elaborate a project.
 
 In the project scope, we will elaborate the delimitations of the project, what is part of the project and what is not and another aspects like goals, deliveries, tasks, responsabilities, deadlines and costs.
 
-<div align="center"><img src="/img/chapter1/project-scope-w1296-h720.jpg" width=1080 height=600><br><sub>Fig 1 - Project Scope</sub></div>
+<div align="center"><img src="/img/chapter1/project-scope-w1296-h720.jpg" width=1080 height=600><br><sub>Fig 1 - Project Scope Phases</sub></div>
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: Project Scope Example
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+In the example below, we will make a scope of a simple project.
+
+##### Project Scope Statement
+
+| Project Name                                     | Order registration and delivery system for a pizzeria     |
+|:------------------------------------------------------------------------------------------------------------:|
+| Project Sponsor                                  | John Ries, CEO                                            |
+| Project Manager                                  | Vitor Garcia                                              |
+| Date of Approval                                 | 06/30/2019                                                |
+| Last Updated                                     | 06/15/2019                                                |
 
 ## <a name="chapter2"></a>Chapter 2: Project Description
 
