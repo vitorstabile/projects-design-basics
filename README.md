@@ -53,7 +53,9 @@ This project have the object to introduce the reader the basics of "How to start
 
 This tutorial will show a basic way in step-by-step form how to start simple project.
 
-This tutorial was based in the course from Phd Professor [Nelio Alves - UML Design][umlcourse-url] and the YoutTUbe Channel [DevSuperior][devsuperior-url].
+<div align="center"><img src="/img/chapter1/project-scope-2-w1063-h565.jpg" width=1063 height=565><br><sub>Fig 1 - Step-by-Step Project</sub></div>
+
+This tutorial was based in the course from Phd Professor [Nelio Alves - UML Design][umlcourse-url] and the Youtube Channel [DevSuperior][devsuperior-url].
   
 ## <a name="chapter1"></a>Chapter 1: Project Scope
 
@@ -63,7 +65,7 @@ The Project Scope is the first part of how to elaborate a project.
 
 In the project scope, we will elaborate the delimitations of the project, what is part of the project and what is not and another aspects like goals, deliveries, tasks, responsabilities, deadlines and costs.
 
-<div align="center"><img src="/img/chapter1/project-scope-w1296-h720.jpg" width=1080 height=600><br><sub>Fig 1 - Project Scope Phases</sub></div>
+<div align="center"><img src="/img/chapter1/project-scope-w1296-h720.jpg" width=1080 height=600><br><sub>Fig 2 - Project Scope Phases</sub></div>
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: Project Scope Example
 
@@ -117,7 +119,7 @@ After make the project scope, we have to make a detail description of the projec
 
 Make a description of the project is put all the details of the software (what he will have, the entities and the relation with them). Just make a simple description and pay attention in this details.
 
-<div align="center"><img src="img/chapter2/project-description-w686-h622.jpg" width=660 height=600><br><sub>Fig 2 - Project Description Example</sub></div>
+<div align="center"><img src="img/chapter2/project-description-w686-h622.jpg" width=660 height=600><br><sub>Fig 3 - Project Description Example</sub></div>
 
 #### <a name="chapter2part2"></a>Chapter 2 - Part 2: Example of Project Detaling
 
@@ -129,7 +131,7 @@ The pizzeria GoodPi, want to implement a order and delivery system. The client e
 
 After the description, check what is will be your entities and entities attributes in the description and highlight the text:
 
-<div align="center"><img src="img/chapter2/project-description-2-w1099-h484.jpg" width=1099 height=484><br><sub>Fig 3 - Highlight Entities in Description</sub></div>
+<div align="center"><img src="img/chapter2/project-description-2-w1099-h484.jpg" width=1099 height=484><br><sub>Fig 4 - Highlight Entities in Description</sub></div>
 
 ## <a name="chapter3"></a>Chapter 3: Project Use Case
 
@@ -137,7 +139,7 @@ After the description, check what is will be your entities and entities attribut
 
 The Use Case is a useful tool to specify what will be the input from the user and what will the the output from the system.
 
-<div align="center"><img src="img/chapter3/project-use-case-w1006-h655.jpg" width=1006 height=655><br><sub>Fig 4 - Project Use Case</sub></div>
+<div align="center"><img src="img/chapter3/project-use-case-w1006-h655.jpg" width=1006 height=655><br><sub>Fig 5 - Project Use Case</sub></div>
 
 #### <a name="chapter3part2"></a>Chapter 3 - Part 2: Use Case Example
 
@@ -160,7 +162,7 @@ In the example below, we will make a use case of the project we are using like e
 
 A wireframe is a two-dimensional skeletal outline of a webpage or app. Wireframes provide a clear overview of the page structure, layout, information architecture, user flow, functionality, and intended behaviors. As a wireframe usually represents the initial product concept, styling, color, and graphics are kept to a minimum. Wireframes can be drawn by hand or created digitally, depending on how much detail is required.
 
-<div align="center"><img src="img/chapter4/project-wireframe-w1295-h511.jpg" width=1295 height=511><br><sub>Fig 4 - Project Wireframe</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-w1295-h511.jpg" width=1295 height=511><br><sub>Fig 6 - Project Wireframe</sub></div>
 
 #### <a name="chapter4part2"></a>Chapter 4 - Part 2: How to Make a Wireframe
 
@@ -168,7 +170,7 @@ We can make a simple wireframe, using [Figma][figma-url] or [Adobe XD][adobexd-u
 
 Down below, is the wireframe example of the home page and the products page in a computer view.
 
-<div align="center"><img src="img/chapter4/project-wireframe-2-w1063-h762.jpg" width=1063 height=762><br><sub>Fig 5 - Project Web Wireframe</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-2-w1063-h762.jpg" width=1063 height=762><br><sub>Fig 7 - Project Web Wireframe</sub></div>
 
 Down below, is the wireframe in the mobile app.
 
@@ -178,19 +180,19 @@ Down below, is the wireframe in the mobile app.
 
 After present the draft models of the wireframe to UI/UX designer, he will make the properly interface, like below.
 
-<div align="center"><img src="img/chapter4/project-wireframe-4-w1103-h807.jpg" width=1103 height=807><br><sub>Fig 7 - UI/UX Web Interface</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-4-w1103-h807.jpg" width=1103 height=807><br><sub>Fig 8 - UI/UX Web Interface</sub></div>
 
 
 
-<div align="center"><img src="img/chapter4/project-wireframe-5-w950-h794.jpg" width=950 height=794><br><sub>Fig 8 - UI/UX Web Interface</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-5-w950-h794.jpg" width=950 height=794><br><sub>Fig 9 - UI/UX Web Interface</sub></div>
 
 
 
-<div align="center"><img src="img/chapter4/project-wireframe-6-w950-h421.jpg" width=950 height=421><br><sub>Fig 9 - UI/UX Web Interface</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-6-w950-h421.jpg" width=950 height=421><br><sub>Fig 10 - UI/UX Web Interface</sub></div>
 
 
 
-<div align="center"><img src="img/chapter4/project-wireframe-7-w1215-h737.jpg" width=1215 height=737><br><sub>Fig 10 - UI/UX App Interface</sub></div>
+<div align="center"><img src="img/chapter4/project-wireframe-7-w1215-h737.jpg" width=1215 height=737><br><sub>Fig 11 - UI/UX App Interface</sub></div>
 
 
 
