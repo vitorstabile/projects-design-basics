@@ -133,17 +133,24 @@ After the description, check what is will be your entities and entities attribut
 
 #### <a name="chapter3part1"></a>Chapter 3 - Part 1: Use Case
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+The Use Case is a useful tool to specify what will be the input from the user and what will the the output from the system.
 
-<div align="center"><img src="img/chapter3/project-use-case-w1006-h655.jpg" width=300 height=300><br><sub>Fig 3 - Project Use Case</sub></div>
+<div align="center"><img src="img/chapter3/project-use-case-w1006-h655.jpg" width=1006 height=655><br><sub>Fig 4 - Project Use Case</sub></div>
 
 #### <a name="chapter3part2"></a>Chapter 3 - Part 2: Use Case Example
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+In the example below, we will make a use case of the project we are using like example.
+
+Use Case
+Register Order
+1. [OUT] The system show a list with name, price, description and images of all products, ordered by name.
+2. [IN] The client select the desire products and inform the delivery location of the order.
+3. [OUT] The system inform the order id.
+Deliver Order
+4. [OUT] The system show a list with id, total value, instant and items of the pending orders, ordered by oldest to youngest.
+5. [IN] The courier select the order.
+6. [OUT] The system inform a map with the route till the delivery location.
+7. [IN] The courier inform that the order was delivered.
 
 ## <a name="chapter4"></a>Chapter 4: Project Wireframe
 
