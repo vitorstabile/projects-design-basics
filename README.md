@@ -200,11 +200,9 @@ After present the draft models of the wireframe to UI/UX designer, he will make 
 
 #### <a name="chapter5part1"></a>Chapter 5 - Part 1: Phases of a Project
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+The phases of a project consist in disciplines (Bussiness Modelling, Requirements, Analysis & Design...) working together in different phases (Inception, Elaboration, Construction and Trasition) and different iterations in a instant of time.
 
-<div align="center"><img src="img/chapter5/project-phase-w1421-h802.jpg" width=300 height=300><br><sub>Fig 11 - Phases of a Project</sub></div>
+<div align="center"><img src="img/chapter5/project-phase-w1421-h802.jpg" width=1421 height=802><br><sub>Fig 11 - Phases of a Project</sub></div>
 
 <div align="center"><img src="img/chapter5/project-phase-2-w1208-h686.jpg" width=300 height=300><br><sub>Fig 12 - Phases of a Project</sub></div>
 
