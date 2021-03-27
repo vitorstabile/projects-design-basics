@@ -141,16 +141,16 @@ The Use Case is a useful tool to specify what will be the input from the user an
 
 In the example below, we will make a use case of the project we are using like example.
 
-Use Case
-Register Order
+####Register Order
 1. [OUT] The system show a list with name, price, description and images of all products, ordered by name.
 2. [IN] The client select the desire products and inform the delivery location of the order.
 3. [OUT] The system inform the order id.
-Deliver Order
-4. [OUT] The system show a list with id, total value, instant and items of the pending orders, ordered by oldest to youngest.
-5. [IN] The courier select the order.
-6. [OUT] The system inform a map with the route till the delivery location.
-7. [IN] The courier inform that the order was delivered.
+
+####Deliver Order
+1. [OUT] The system show a list with id, total value, instant and items of the pending orders, ordered by oldest to youngest.
+2. [IN] The courier select the order.
+3. [OUT] The system inform a map with the route till the delivery location.
+4. [IN] The courier inform that the order was delivered.
 
 ## <a name="chapter4"></a>Chapter 4: Project Wireframe
 
