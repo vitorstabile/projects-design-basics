@@ -52,6 +52,8 @@ This project have a propose to introduce the reader to basic concepts of create 
 This project have the object to introduce the reader the basics of "How to start and create a software" in the development world. I think, many of us, have the skills of programm (knowledge in oriented object programm language, relational database, Front-end tools like HTML, CSS and Javascript) but don't have the basics of how to get the ideia that is in the head and pass to a paper.
 
 This tutorial will show a basic way in step-by-step form how to start simple project.
+
+This tutorial was based in the course from Phd Professor [Nelio Alves - UML Design][umlcourse-url] and the YoutTUbe Channel [DevSuperior][devsuperior-url].
   
 ## <a name="chapter1"></a>Chapter 1: Project Scope
 
@@ -272,10 +274,9 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/chapter5/conceptual-model-instance-example-w1459-h688.jpg" width=300 height=300><br><sub>Fig 22 - The Example Domain Model</sub></div>
 
-
 # Usage <a name="usage"></a>
 
-Using this like a bibliography if you want to remember project design concepts. For more information, use this [PDF][pdf-url]
+Using this like a bibliography if you want to remember project design concepts. For more information, use this [PDF][pdf-url].
 
 # Contributors <a name="contributors"></a>
 
@@ -367,3 +368,5 @@ https://unsplash.com/
 [pdf-url]: https://github.com/vitorstabile/projects-design-basics/blob/master/Apostila%20An%C3%A1lise%20e%20Design%20de%20Sistemas%20-%20Nelio%20Alves%20-%20Ed%202020.pdf
 [figma-url]: https://www.figma.com/
 [adobexd-url]: https://www.adobe.com/products/xd.html
+[umlcourse-url]: https://www.udemy.com/course/uml-diagrama-de-classes/
+[devsuperior-url]: https://www.youtube.com/watch?v=PfYifUFmXk8
