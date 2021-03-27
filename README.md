@@ -68,13 +68,13 @@ In the project scope, we will elaborate the delimitations of the project, what i
 In the example below, we will make a scope of a simple project.
 
 ##### Project Scope Statement
-
-| Project Name                                     | Order registration and delivery system for a pizzeria     |
-|:------------------------------------------------------------------------------------------------------------:|
-| Project Sponsor                                  | John Ries, CEO                                            |
-| Project Manager                                  | Vitor Garcia                                              |
-| Date of Approval                                 | 06/30/2019                                                |
-| Last Updated                                     | 06/15/2019                                                |
+|                                                          |                                                               |
+|:---------------------------------------------------------|--------------------------------------------------------------:|
+| **Project Name**                                         | Order registration and delivery system for a pizzeria         |
+| **Project Sponsor**                                      | John Ries, CEO                                                |
+| **Project Manager**                                      | Vitor Garcia                                                  |
+| **Date of Approval**                                     | 06/30/2019                                                    |
+| **Last Updated**                                         | 06/15/2019                                                    |
 
 ## <a name="chapter2"></a>Chapter 2: Project Description
 
