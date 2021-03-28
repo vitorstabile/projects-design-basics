@@ -251,13 +251,11 @@ The Domain Model have abstraction levels, like below.
 
 #### <a name="chapter5part9"></a>Chapter 5 - Part 9: The Example Domain Model
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+In the example below, we will make a Conceptual Domain Model (System) from the example and a instance of a object.
 
-<div align="center"><img src="img/chapter5/conceptual-model-example-w1235-h695.jpg" width=300 height=300><br><sub>Fig 21 - The Example Domain Model</sub></div>
+<div align="center"><img src="img/chapter5/conceptual-model-example-w1235-h695.jpg" width=1235 height=695><br><sub>Fig 21 - Conceptual Domain Model (System)</sub></div>
 
-<div align="center"><img src="img/chapter5/conceptual-model-instance-example-w1459-h688.jpg" width=300 height=300><br><sub>Fig 22 - The Example Domain Model</sub></div>
+<div align="center"><img src="img/chapter5/conceptual-model-instance-example-w1459-h688.jpg" width=1459 height=688><br><sub>Fig 22 - Instance of Object of Conceptual Domain Model (System)</sub></div>
 
 # Usage <a name="usage"></a>
 
