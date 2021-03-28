@@ -53,9 +53,9 @@ This project have the object to introduce the reader the basics of "How to start
 
 This tutorial will show a basic way in step-by-step form how to start simple project.
 
-<div align="center"><img src="/img/chapter1/project-scope-2-w1063-h565.jpg" width=1063 height=565><br><sub>Fig 1 - Step-by-Step Project</sub></div>
-
 This tutorial was based in the course from Phd Professor [Nelio Alves - UML Design][umlcourse-url] and the Youtube Channel [DevSuperior][devsuperior-url].
+
+<div align="center"><img src="/img/chapter1/project-scope-2-w1063-h565.jpg" width=1063 height=565><br><sub>Fig 1 - Step-by-Step Project</sub></div>
   
 ## <a name="chapter1"></a>Chapter 1: Project Scope
 
