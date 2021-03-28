@@ -216,17 +216,14 @@ The Domain Model have abstraction levels, like below.
 
 <div align="center"><img src="img/chapter5/project-phase-4-w889-h505.jpg" width=889 height=505><br><sub>Fig 14 - Domain Model Abstraction Level</sub></div>
 
-| Level                                           | Responsible                                                   | Objective                                         | Tools  | 
-|:------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------|-------:|
-| Conceptual Domain Model (Business)              | Business analyst                                              | Describe the domain (business) entities and their interrelationships: Regardless of the System      
-| Conceptual Domain Model (System)                | Systems Analyst                                               |
-| Logical Level Domain Model (Relational)         | Designer                                                      |
+| Level                                           | Responsible                                                   | Objective                                                                                                                                            | Tools                                         | 
+|:------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------:|
+| Conceptual Domain Model (Business)              | Business analyst                                              | Describe the domain (business) entities and their interrelationships: Regardless of the System                                                       | MER Class Diagram (Without OO Elements)       |
+| Conceptual Domain Model (System)                | Systems Analyst                                               | Describe the domain (system) entities and their interrelationships: Regardless of paradigm and technology                                            | MR Class Diagram                              |
+| Logical Level Domain Model (Relational)         | Designer                                                      | Describe the domain (system) entities and their interrelationships: - Stuck in a paradigm (Ex: Relational, Object Oriented) - Technology independent | MR Class Diagram                              |
 | Logical Level Domain Model (Object Oriented)    | Designer                                                      |
 | Physical Level Domain Model (Relational)        | Implementer                                                   |
 | Physical Level Domain Model (Object Oriented)   | Implementer                                                   |
-
-
-
 
 #### <a name="chapter5part3"></a>Chapter 5 - Part 3: Conceptual Domain Model (Business)
 
