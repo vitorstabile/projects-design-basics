@@ -55,7 +55,11 @@ This project have the object to introduce the reader the basics of "How to start
 
 This tutorial will show a basic way in step-by-step form how to start simple project.
 
+<br>
+
 <div align="center"><img src="/img/chapter1/project-scope-2-w1063-h565.jpg" width=1063 height=565><br><sub>Fig 1 - Step-by-Step Project</sub></div>
+  
+<br>
   
 ## <a name="chapter1"></a>Chapter 1: Project Scope
 
@@ -65,7 +69,11 @@ The Project Scope is the first part of how to elaborate a project.
 
 In the project scope, we will elaborate the delimitations of the project, what is part of the project and what is not and another aspects like goals, deliveries, tasks, responsabilities, deadlines and costs.
 
+<br>
+
 <div align="center"><img src="/img/chapter1/project-scope-w1296-h720.jpg" width=1080 height=600><br><sub>Fig 2 - Project Scope Phases</sub></div>
+
+<br>
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: Project Scope Example
 
@@ -119,7 +127,11 @@ After make the project scope, we have to make a detail description of the projec
 
 Make a description of the project is put all the details of the software (what he will have, the entities and the relation with them). Just make a simple description and pay attention in this details.
 
+<br>
+
 <div align="center"><img src="img/chapter2/project-description-w686-h622.jpg" width=660 height=600><br><sub>Fig 3 - Project Description Example</sub></div>
+
+<br>
 
 #### <a name="chapter2part2"></a>Chapter 2 - Part 2: Example of Project Detaling
 
@@ -131,7 +143,11 @@ The pizzeria GoodPi, want to implement a order and delivery system. The client e
 
 After the description, check what is will be your entities and entities attributes in the description and highlight the text:
 
+<br>
+
 <div align="center"><img src="img/chapter2/project-description-2-w1099-h484.jpg" width=1099 height=484><br><sub>Fig 4 - Highlight Entities in Description</sub></div>
+
+<br>
 
 ## <a name="chapter3"></a>Chapter 3: Project Use Case
 
@@ -139,7 +155,11 @@ After the description, check what is will be your entities and entities attribut
 
 The Use Case is a useful tool to specify what will be the input from the user and what will the the output from the system.
 
+<br>
+
 <div align="center"><img src="img/chapter3/project-use-case-w1006-h655.jpg" width=1006 height=655><br><sub>Fig 5 - Project Use Case</sub></div>
+
+<br>
 
 #### <a name="chapter3part2"></a>Chapter 3 - Part 2: Use Case Example
 
@@ -162,7 +182,11 @@ In the example below, we will make a use case of the project we are using like e
 
 A wireframe is a two-dimensional skeletal outline of a webpage or app. Wireframes provide a clear overview of the page structure, layout, information architecture, user flow, functionality, and intended behaviors. As a wireframe usually represents the initial product concept, styling, color, and graphics are kept to a minimum. Wireframes can be drawn by hand or created digitally, depending on how much detail is required.
 
+<br>
+
 <div align="center"><img src="img/chapter4/project-wireframe-w1295-h511.jpg" width=1295 height=511><br><sub>Fig 6 - Project Wireframe</sub></div>
+
+<br>
 
 #### <a name="chapter4part2"></a>Chapter 4 - Part 2: How to Make a Wireframe
 
@@ -170,31 +194,41 @@ We can make a simple wireframe, using [Figma][figma-url] or [Adobe XD][adobexd-u
 
 Down below, is the wireframe example of the home page and the products page in a computer view.
 
+<br>
+
 <div align="center"><img src="img/chapter4/project-wireframe-2-w1063-h762.jpg" width=1063 height=762><br><sub>Fig 7 - Project Web Wireframe</sub></div>
+
+<br>
 
 Down below, is the wireframe in the mobile app.
 
+<br>
+
 <div align="center"><img src="img/chapter4/project-wireframe-3-w861-h755.jpg" width=861 height=755><br><sub>Fig 6 - Project Mobile Wireframe</sub></div>
+
+<br>
 
 #### <a name="chapter4part3"></a>Chapter 4 - Part 3: The Real Wireframe
 
 After present the draft models of the wireframe to UI/UX designer, he will make the properly interface, like below.
 
+<br>
+
 <div align="center"><img src="img/chapter4/project-wireframe-4-w1103-h807.jpg" width=1103 height=807><br><sub>Fig 8 - UI/UX Web Interface</sub></div>
 
-
+<br>
 
 <div align="center"><img src="img/chapter4/project-wireframe-5-w950-h794.jpg" width=950 height=794><br><sub>Fig 9 - UI/UX Web Interface</sub></div>
 
-
+<br>
 
 <div align="center"><img src="img/chapter4/project-wireframe-6-w950-h421.jpg" width=950 height=421><br><sub>Fig 10 - UI/UX Web Interface</sub></div>
 
-
+<br>
 
 <div align="center"><img src="img/chapter4/project-wireframe-7-w1215-h737.jpg" width=1215 height=737><br><sub>Fig 11 - UI/UX App Interface</sub></div>
 
-
+<br>
 
 ## <a name="chapter5"></a>Chapter 5: Project Domain Model
 
@@ -202,19 +236,33 @@ After present the draft models of the wireframe to UI/UX designer, he will make 
 
 The phases of a project consist in disciplines (Bussiness Modelling, Requirements, Analysis & Design...) working together in different phases (Inception, Elaboration, Construction and Trasition) and different iterations in a instant of time.
 
+<br>
+
 <div align="center"><img src="img/chapter5/project-phase-w1421-h802.jpg" width=1421 height=802><br><sub>Fig 11 - Phases of a Project</sub></div>
+
+<br>
 
 #### <a name="chapter5part2"></a>Chapter 5 - Part 2: Domain Model Abstraction Level
 
 The Domain Model is required in the Bussiness Modelling, Requirements and Analysis & Design phase
 
+<br>
+
 <div align="center"><img src="img/chapter5/project-phase-2-w1208-h686.jpg" width=1208 height=686><br><sub>Fig 12 - Domain Model Phases Required Level</sub></div>
+
+<br>
 
 The Domain Model have abstraction levels, like below.
 
+<br>
+
 <div align="center"><img src="img/chapter5/project-phase-3-w1190-h601.jpg" width=1190 height=601><br><sub>Fig 13 - Domain Model Abstraction Level</sub></div>
 
+<br>
+
 <div align="center"><img src="img/chapter5/project-phase-4-w889-h505.jpg" width=889 height=505><br><sub>Fig 14 - Domain Model Abstraction Level</sub></div>
+
+<br>
 
 | Level                                           | Responsible                                                   | Objective                                                                                                                                                      | Tools                                         | 
 |-------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -227,35 +275,65 @@ The Domain Model have abstraction levels, like below.
 
 #### <a name="chapter5part3"></a>Chapter 5 - Part 3: Conceptual Domain Model (Business)
 
+<br>
+
 <div align="center"><img src="img/chapter5/project-phase-5-w1427-h806.jpg" width=1427 height=806><br><sub>Fig 15 - Conceptual Domain Model (Business)</sub></div>
+
+<br>
 
 #### <a name="chapter5part4"></a>Chapter 5 - Part 4: Conceptual Domain Model (System)
 
+<br>
+
 <div align="center"><img src="img/chapter5/project-phase-6-w1441-h811.jpg" width=1441 height=811><br><sub>Fig 16 - Conceptual Domain Model (System)</sub></div>
+
+<br>
 
 #### <a name="chapter5part5"></a>Chapter 5 - Part 5: Logical Level Domain Model (Relational)
 
+<br>
+
 <div align="center"><img src="img/chapter5/project-phase-7-w1438-h814.jpg" width=1438 height=814><br><sub>Fig 17 - Logical Level Domain Model (Relational)</sub></div>
+
+<br>
 
 #### <a name="chapter5part6"></a>Chapter 5 - Part 6: Logical Level Domain Model (Object Oriented)
 
+<br>
+
 <div align="center"><img src="img/chapter5/project-phase-8-w1429-h809.jpg" width=1429 height=809><br><sub>Fig 18 - Logical Level Domain Model (Object Oriented)</sub></div>
+
+<br>
 
 #### <a name="chapter5part7"></a>Chapter 5 - Part 7: Physical Level Domain Model (Relational)
 
+<br>
+
 <div align="center"><img src="img/chapter5/project-phase-9-w1432-h811.jpg" width=1432 height=811><br><sub>Fig 19 - Physical Level Domain Model (Relational)</sub></div>
+
+<br>
 
 #### <a name="chapter5part8"></a>Chapter 5 - Part 8: Physical Level Domain Model (Object Oriented)
 
+<br>
+
 <div align="center"><img src="img/chapter5/project-phase-10-w1440-h818.jpg" width=1440 height=818><br><sub>Fig 20 - Physical Level Domain Model (Object Oriented)</sub></div>
+
+<br>
 
 #### <a name="chapter5part9"></a>Chapter 5 - Part 9: The Example Domain Model
 
 In the example below, we will make a Conceptual Domain Model (System) from the example and a instance of a object.
 
+<br>
+
 <div align="center"><img src="img/chapter5/conceptual-model-example-w1235-h695.jpg" width=1235 height=695><br><sub>Fig 21 - Conceptual Domain Model (System)</sub></div>
 
+<br>
+
 <div align="center"><img src="img/chapter5/conceptual-model-instance-example-w1459-h688.jpg" width=1459 height=688><br><sub>Fig 22 - Instance of Object of Conceptual Domain Model (System)</sub></div>
+
+<br>
 
 # Usage <a name="usage"></a>
 
