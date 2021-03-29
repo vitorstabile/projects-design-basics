@@ -47,13 +47,13 @@ This project have a propose to introduce the reader to basic concepts of create 
 
 [![Project][project-shield]][project-url] <!-- Put the link of the github page of the tutorial her -->
 
+This tutorial was based in the course from Phd Professor [Nelio Alves - UML Design][umlcourse-url] and the Youtube Channel [DevSuperior][devsuperior-url].
+
 # Project Description <a name="projectdescription"></a>
 
 This project have the object to introduce the reader the basics of "How to start and create a software" in the development world. I think, many of us, have the skills of programm (knowledge in oriented object programm language, relational database, Front-end tools like HTML, CSS and Javascript) but don't have the basics of how to get the ideia that is in the head and pass to a paper.
 
 This tutorial will show a basic way in step-by-step form how to start simple project.
-
-This tutorial was based in the course from Phd Professor [Nelio Alves - UML Design][umlcourse-url] and the Youtube Channel [DevSuperior][devsuperior-url].
 
 <div align="center"><img src="/img/chapter1/project-scope-2-w1063-h565.jpg" width=1063 height=565><br><sub>Fig 1 - Step-by-Step Project</sub></div>
   
