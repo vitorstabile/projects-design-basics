@@ -259,7 +259,7 @@ In the example below, we will make a Conceptual Domain Model (System) from the e
 
 # Usage <a name="usage"></a>
 
-Using this like a bibliography if you want to remember project design concepts. For more information, use this [PDF][pdf-url].
+Using this like a bibliography if you want to remember project design concepts.
 
 # Contributors <a name="contributors"></a>
 
@@ -348,7 +348,6 @@ https://unsplash.com/
 [issues-url]: https://github.com/vitorstabile/projects-design-basics/issues
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
 [license-url]: https://github.com/vitorstabile/projects-design-basics/blob/master/LICENSE.txt
-[pdf-url]: https://github.com/vitorstabile/projects-design-basics/blob/master/Apostila%20An%C3%A1lise%20e%20Design%20de%20Sistemas%20-%20Nelio%20Alves%20-%20Ed%202020.pdf
 [figma-url]: https://www.figma.com/
 [adobexd-url]: https://www.adobe.com/products/xd.html
 [umlcourse-url]: https://www.udemy.com/course/uml-diagrama-de-classes/
