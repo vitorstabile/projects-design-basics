@@ -57,7 +57,7 @@ This tutorial will show a basic way in step-by-step form how to start simple pro
 
 <br>
 
-<div align="center"><img src="/img/chapter1/project-scope-2-w1063-h565.jpg" width=1063 height=565><br><sub>Fig 1 - Step-by-Step Project</sub></div>
+<div align="center"><img src="" width=1063 height=565><br><sub>Fig 1 - Step-by-Step Project</sub></div>
   
 <br>
   
@@ -71,7 +71,7 @@ In the project scope, we will elaborate the delimitations of the project, what i
 
 <br>
 
-<div align="center"><img src="/img/chapter1/project-scope-w1296-h720.jpg" width=1080 height=600><br><sub>Fig 2 - Project Scope Phases</sub></div>
+<div align="center"><img src="" width=1080 height=600><br><sub>Fig 2 - Project Scope Phases</sub></div>
 
 <br>
 
@@ -129,7 +129,7 @@ Make a description of the project is put all the details of the software (what h
 
 <br>
 
-<div align="center"><img src="img/chapter2/project-description-w686-h622.jpg" width=660 height=600><br><sub>Fig 3 - Project Description Example</sub></div>
+<div align="center"><img src="" width=660 height=600><br><sub>Fig 3 - Project Description Example</sub></div>
 
 <br>
 
@@ -145,7 +145,7 @@ After the description, check what is will be your entities and entities attribut
 
 <br>
 
-<div align="center"><img src="img/chapter2/project-description-2-w1099-h484.jpg" width=1099 height=484><br><sub>Fig 4 - Highlight Entities in Description</sub></div>
+<div align="center"><img src="" width=1099 height=484><br><sub>Fig 4 - Highlight Entities in Description</sub></div>
 
 <br>
 
@@ -157,7 +157,7 @@ The Use Case is a useful tool to specify what will be the input from the user an
 
 <br>
 
-<div align="center"><img src="img/chapter3/project-use-case-w1006-h655.jpg" width=1006 height=655><br><sub>Fig 5 - Project Use Case</sub></div>
+<div align="center"><img src="" width=1006 height=655><br><sub>Fig 5 - Project Use Case</sub></div>
 
 <br>
 
@@ -184,7 +184,7 @@ A wireframe is a two-dimensional skeletal outline of a webpage or app. Wireframe
 
 <br>
 
-<div align="center"><img src="img/chapter4/project-wireframe-w1295-h511.jpg" width=1295 height=511><br><sub>Fig 6 - Project Wireframe</sub></div>
+<div align="center"><img src="" width=1295 height=511><br><sub>Fig 6 - Project Wireframe</sub></div>
 
 <br>
 
@@ -196,7 +196,7 @@ Down below, is the wireframe example of the home page and the products page in a
 
 <br>
 
-<div align="center"><img src="img/chapter4/project-wireframe-2-w1063-h762.jpg" width=1063 height=762><br><sub>Fig 7 - Project Web Wireframe</sub></div>
+<div align="center"><img src="" width=1063 height=762><br><sub>Fig 7 - Project Web Wireframe</sub></div>
 
 <br>
 
@@ -204,7 +204,7 @@ Down below, is the wireframe in the mobile app.
 
 <br>
 
-<div align="center"><img src="img/chapter4/project-wireframe-3-w861-h755.jpg" width=861 height=755><br><sub>Fig 6 - Project Mobile Wireframe</sub></div>
+<div align="center"><img src="" width=861 height=755><br><sub>Fig 6 - Project Mobile Wireframe</sub></div>
 
 <br>
 
@@ -214,19 +214,19 @@ After present the draft models of the wireframe to UI/UX designer, he will make 
 
 <br>
 
-<div align="center"><img src="img/chapter4/project-wireframe-4-w1103-h807.jpg" width=1103 height=807><br><sub>Fig 8 - UI/UX Web Interface</sub></div>
+<div align="center"><img src="" width=1103 height=807><br><sub>Fig 8 - UI/UX Web Interface</sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter4/project-wireframe-5-w950-h794.jpg" width=950 height=794><br><sub>Fig 9 - UI/UX Web Interface</sub></div>
+<div align="center"><img src="" width=950 height=794><br><sub>Fig 9 - UI/UX Web Interface</sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter4/project-wireframe-6-w950-h421.jpg" width=950 height=421><br><sub>Fig 10 - UI/UX Web Interface</sub></div>
+<div align="center"><img src="" width=950 height=421><br><sub>Fig 10 - UI/UX Web Interface</sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter4/project-wireframe-7-w1215-h737.jpg" width=1215 height=737><br><sub>Fig 11 - UI/UX App Interface</sub></div>
+<div align="center"><img src="" width=1215 height=737><br><sub>Fig 11 - UI/UX App Interface</sub></div>
 
 <br>
 
@@ -238,7 +238,7 @@ The phases of a project consist in disciplines (Bussiness Modelling, Requirement
 
 <br>
 
-<div align="center"><img src="img/chapter5/project-phase-w1421-h802.jpg" width=1421 height=802><br><sub>Fig 11 - Phases of a Project</sub></div>
+<div align="center"><img src="" width=1421 height=802><br><sub>Fig 11 - Phases of a Project</sub></div>
 
 <br>
 
@@ -248,7 +248,7 @@ The Domain Model is required in the Bussiness Modelling, Requirements and Analys
 
 <br>
 
-<div align="center"><img src="img/chapter5/project-phase-2-w1208-h686.jpg" width=1208 height=686><br><sub>Fig 12 - Domain Model Phases Required Level</sub></div>
+<div align="center"><img src="" width=1208 height=686><br><sub>Fig 12 - Domain Model Phases Required Level</sub></div>
 
 <br>
 
@@ -256,11 +256,11 @@ The Domain Model have abstraction levels, like below.
 
 <br>
 
-<div align="center"><img src="img/chapter5/project-phase-3-w1190-h601.jpg" width=1190 height=601><br><sub>Fig 13 - Domain Model Abstraction Level</sub></div>
+<div align="center"><img src="" width=1190 height=601><br><sub>Fig 13 - Domain Model Abstraction Level</sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter5/project-phase-4-w889-h505.jpg" width=889 height=505><br><sub>Fig 14 - Domain Model Abstraction Level</sub></div>
+<div align="center"><img src="" width=889 height=505><br><sub>Fig 14 - Domain Model Abstraction Level</sub></div>
 
 <br>
 
@@ -277,7 +277,7 @@ The Domain Model have abstraction levels, like below.
 
 <br>
 
-<div align="center"><img src="img/chapter5/project-phase-5-w1427-h806.jpg" width=1427 height=806><br><sub>Fig 15 - Conceptual Domain Model (Business)</sub></div>
+<div align="center"><img src="" width=1427 height=806><br><sub>Fig 15 - Conceptual Domain Model (Business)</sub></div>
 
 <br>
 
@@ -285,7 +285,7 @@ The Domain Model have abstraction levels, like below.
 
 <br>
 
-<div align="center"><img src="img/chapter5/project-phase-6-w1441-h811.jpg" width=1441 height=811><br><sub>Fig 16 - Conceptual Domain Model (System)</sub></div>
+<div align="center"><img src="" width=1441 height=811><br><sub>Fig 16 - Conceptual Domain Model (System)</sub></div>
 
 <br>
 
@@ -293,7 +293,7 @@ The Domain Model have abstraction levels, like below.
 
 <br>
 
-<div align="center"><img src="img/chapter5/project-phase-7-w1438-h814.jpg" width=1438 height=814><br><sub>Fig 17 - Logical Level Domain Model (Relational)</sub></div>
+<div align="center"><img src="" width=1438 height=814><br><sub>Fig 17 - Logical Level Domain Model (Relational)</sub></div>
 
 <br>
 
@@ -301,7 +301,7 @@ The Domain Model have abstraction levels, like below.
 
 <br>
 
-<div align="center"><img src="img/chapter5/project-phase-8-w1429-h809.jpg" width=1429 height=809><br><sub>Fig 18 - Logical Level Domain Model (Object Oriented)</sub></div>
+<div align="center"><img src="" width=1429 height=809><br><sub>Fig 18 - Logical Level Domain Model (Object Oriented)</sub></div>
 
 <br>
 
@@ -309,7 +309,7 @@ The Domain Model have abstraction levels, like below.
 
 <br>
 
-<div align="center"><img src="img/chapter5/project-phase-9-w1432-h811.jpg" width=1432 height=811><br><sub>Fig 19 - Physical Level Domain Model (Relational)</sub></div>
+<div align="center"><img src="" width=1432 height=811><br><sub>Fig 19 - Physical Level Domain Model (Relational)</sub></div>
 
 <br>
 
@@ -317,7 +317,7 @@ The Domain Model have abstraction levels, like below.
 
 <br>
 
-<div align="center"><img src="img/chapter5/project-phase-10-w1440-h818.jpg" width=1440 height=818><br><sub>Fig 20 - Physical Level Domain Model (Object Oriented)</sub></div>
+<div align="center"><img src="" width=1440 height=818><br><sub>Fig 20 - Physical Level Domain Model (Object Oriented)</sub></div>
 
 <br>
 
@@ -327,11 +327,11 @@ In the example below, we will make a Conceptual Domain Model (System) from the e
 
 <br>
 
-<div align="center"><img src="img/chapter5/conceptual-model-example-w1235-h695.jpg" width=1235 height=695><br><sub>Fig 21 - Conceptual Domain Model (System)</sub></div>
+<div align="center"><img src="" width=1235 height=695><br><sub>Fig 21 - Conceptual Domain Model (System)</sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter5/conceptual-model-instance-example-w1459-h688.jpg" width=1459 height=688><br><sub>Fig 22 - Instance of Object of Conceptual Domain Model (System)</sub></div>
+<div align="center"><img src="" width=1459 height=688><br><sub>Fig 22 - Instance of Object of Conceptual Domain Model (System)</sub></div>
 
 <br>
 
