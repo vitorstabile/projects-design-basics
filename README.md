@@ -279,7 +279,7 @@ public class Order implements Serializable {
 
 #### <a name="chapter6part1"></a>Chapter 6 - Part 2: Web App
 
-[The Web App Deploy][ 
+[The Web App Deploy][web-app-url]
 
 <br>
 
@@ -287,7 +287,7 @@ public class Order implements Serializable {
 
 <br>
 
-<div align="center"><img src="img/chapter6/deploy-web-w737-h1079.gif" width=737 height=1079><br><sub>Fig 13 - Web App Deploy</sub></div>
+<div align="center"><img src="img/chapter6/deploy-web-w737-h1079.gif" width=340 height=500><br><sub>Fig 13 - Web App Deploy</sub></div>
 
 <br>
 
