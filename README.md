@@ -212,7 +212,7 @@ A domain model is a visual representation of real situation objects in a domain.
 
 <br>
 
-<div align="center"><img src="" width=1427 height=806><br><sub>Fig 15 - Conceptual Domain Model (Business)</sub></div>
+<div align="center"><img src="img/chapter5/conceptual-domain-model-bussines-w819-h173.jpg" width=819 height=173><br><sub>Fig 8 - Conceptual Domain Model (Business)</sub></div>
 
 <br>
 
@@ -220,7 +220,7 @@ A domain model is a visual representation of real situation objects in a domain.
 
 <br>
 
-<div align="center"><img src="" width=1441 height=811><br><sub>Fig 16 - Conceptual Domain Model (System)</sub></div>
+<div align="center"><img src="img/chapter5/conceptual-domain-model-system-w802-h223.jpg" width=802 height=223><br><sub>Fig 9 - Conceptual Domain Model (System)</sub></div>
 
 <br>
 
@@ -228,7 +228,7 @@ A domain model is a visual representation of real situation objects in a domain.
 
 <br>
 
-<div align="center"><img src="" width=1438 height=814><br><sub>Fig 17 - Logical Level Domain Model (Relational)</sub></div>
+<div align="center"><img src="" width=1438 height=814><br><sub>Fig 10 - Logical Level Domain Model (Relational)</sub></div>
 
 <br>
 
@@ -236,7 +236,7 @@ A domain model is a visual representation of real situation objects in a domain.
 
 <br>
 
-<div align="center"><img src="" width=1429 height=809><br><sub>Fig 18 - Logical Level Domain Model (Object Oriented)</sub></div>
+<div align="center"><img src="img/chapter5/logical-level-domain-model-object-oriented-w829-h274.jpg" width=829 height=274><br><sub>Fig 11 - Logical Level Domain Model (Object Oriented)</sub></div>
 
 <br>
 
