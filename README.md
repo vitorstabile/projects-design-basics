@@ -5,9 +5,11 @@
 1. [Project Status](#projectstatus)
 2. [About the Project](#abouttheproject)
 3. [Project Description](#projectdescription)
-4. [Chapter 1: Project Scope](#chapter1)
-    - [Chapter 1 - Part 1: Project Scope Diagram](#chapter1part1)
-    - [Chapter 1 - Part 2: Project Scope Example](#chapter1part2)
+4. [Chapter 1: Phases of a Project](#chapter1)
+    - [Chapter 1 - Part 1: Phases of a Project](#chapter1part1)
+5. [Chapter 2: Project Scope](#chapter2)
+    - [Chapter 2 - Part 1: Project Scope Diagram](#chapter2part1)
+    - [Chapter 2 - Part 2: Project Scope Example](#chapter2part2)
 5. [Chapter 2: Project Description](#chapter2)
     - [Chapter 2 - Part 1: Detailing the Project](#chapter2part1)
     - [Chapter 2 - Part 2: Example of Project Detaling](#chapter2part2)
@@ -55,10 +57,18 @@ This project have the object to introduce the reader the basics of "How to start
 
 This tutorial will show a basic way in step-by-step form how to start simple project.
 
+## <a name="chapter1"></a>Chapter 1: Phases of a Project
+
+#### <a name="chapter1part1"></a>Chapter 1 - Part 1: Phases of a Project
+
+The Project Scope is the first part of how to elaborate a project.
+
+In the project scope, we will elaborate the delimitations of the project, what is part of the project and what is not and another aspects like goals, deliveries, tasks, responsabilities, deadlines and costs.
+
 <br>
 
-<div align="center"><img src="" width=1063 height=565><br><sub>Fig 1 - Step-by-Step Project</sub></div>
-  
+<div align="center"><img src="" width=1080 height=600><br><sub>Fig 2 - Project Scope Phases</sub></div>
+
 <br>
   
 ## <a name="chapter1"></a>Chapter 1: Project Scope
