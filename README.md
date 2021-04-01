@@ -16,8 +16,8 @@
     - [Chapter 3 - Part 2: How to Make a Wireframe](#chapter3part2)
 7. [Chapter 4: Specify Use Cases](#chapter4)
     - [Chapter 4 - Part 1: Use Cases](#chapter4part1)
-8. [Chapter 5: Project Domain Model](#chapter5)
-    - [Chapter 5 - Part 1: Phases of a Project](#chapter5part1)
+8. [Chapter 5: Domain Model](#chapter5)
+    - [Chapter 5 - Part 1: What is Domain Model?](#chapter5part1)
     - [Chapter 5 - Part 2: Domain Model Abstraction Level](#chapter5part2)
     - [Chapter 5 - Part 3: Conceptual Domain Model (Business)](#chapter5part3)
     - [Chapter 5 - Part 4: Conceptual Domain Model (System)](#chapter5part4)
@@ -192,39 +192,13 @@ In the example below, we will make a use case of the project we are using like e
 3. [OUT] The system inform a map with the route till the delivery location.
 4. [IN] The courier inform that the order was delivered.
 
-## <a name="chapter5"></a>Chapter 5: Project Domain Model
+## <a name="chapter5"></a>Chapter 5: Domain Model
 
-#### <a name="chapter5part1"></a>Chapter 5 - Part 1: Phases of a Project
+#### <a name="chapter5part1"></a>Chapter 5 - Part 1: What is Domain Model?
 
-The phases of a project consist in disciplines (Bussiness Modelling, Requirements, Analysis & Design...) working together in different phases (Inception, Elaboration, Construction and Trasition) and different iterations in a instant of time.
-
-<br>
-
-<div align="center"><img src="" width=1421 height=802><br><sub>Fig 11 - Phases of a Project</sub></div>
-
-<br>
+A domain model is a visual representation of real situation objects in a domain. A domain is an area of concern. Its used to refer to the area you are dealing with. The model is a diagram, for domain models the class diagram UML is mostly used. 
 
 #### <a name="chapter5part2"></a>Chapter 5 - Part 2: Domain Model Abstraction Level
-
-The Domain Model is required in the Bussiness Modelling, Requirements and Analysis & Design phase
-
-<br>
-
-<div align="center"><img src="" width=1208 height=686><br><sub>Fig 12 - Domain Model Phases Required Level</sub></div>
-
-<br>
-
-The Domain Model have abstraction levels, like below.
-
-<br>
-
-<div align="center"><img src="" width=1190 height=601><br><sub>Fig 13 - Domain Model Abstraction Level</sub></div>
-
-<br>
-
-<div align="center"><img src="" width=889 height=505><br><sub>Fig 14 - Domain Model Abstraction Level</sub></div>
-
-<br>
 
 | Level                                           | Responsible                                                   | Objective                                                                                                                                                      | Tools                                         | 
 |-------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -280,20 +254,6 @@ The Domain Model have abstraction levels, like below.
 <br>
 
 <div align="center"><img src="" width=1440 height=818><br><sub>Fig 20 - Physical Level Domain Model (Object Oriented)</sub></div>
-
-<br>
-
-#### <a name="chapter5part9"></a>Chapter 5 - Part 9: The Example Domain Model
-
-In the example below, we will make a Conceptual Domain Model (System) from the example and a instance of a object.
-
-<br>
-
-<div align="center"><img src="" width=1235 height=695><br><sub>Fig 21 - Conceptual Domain Model (System)</sub></div>
-
-<br>
-
-<div align="center"><img src="" width=1459 height=688><br><sub>Fig 22 - Instance of Object of Conceptual Domain Model (System)</sub></div>
 
 <br>
 
