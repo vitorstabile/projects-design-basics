@@ -135,7 +135,7 @@ The pizzeria GoodPi, want to implement a order and delivery system. The client e
 
 After the description, check what is will be your entities and entities attributes in the description and highlight the text:
 
-<div align="center"><img src="" width=660 height=600><br><sub>Fig 3 - Project Description Example</sub></div>
+<div align="center"><img src="img/chapter2/project-description-2-w1099-h484.jpg" width=1099 height=484><br><sub>Fig 2 - Entities of the Project</sub></div>
 
 ## <a name="chapter2"></a>Chapter 2: Project Description
 
@@ -147,7 +147,7 @@ Make a description of the project is put all the details of the software (what h
 
 <br>
 
-<div align="center"><img src="" width=660 height=600><br><sub>Fig 3 - Project Description Example</sub></div>
+<div align="center"><img src="https://github.com/vitorstabile/projects-design-basics" width=660 height=600><br><sub>Fig 3 - Project Description Example</sub></div>
 
 <br>
 
