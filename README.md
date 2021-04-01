@@ -75,21 +75,13 @@ Let's define 5 phases to create a project:
 
 <br>
   
-## <a name="chapter1"></a>Chapter 1: Project Scope
+## <a name="chapter2"></a>Chapter 2: System Overview
 
-#### <a name="chapter1part1"></a>Chapter 1 - Part 1: Project Scope Diagram
+#### <a name="chapter2part1"></a>Chapter 2 - Part 1: Project Scope
 
 The Project Scope is the first part of how to elaborate a project.
 
 In the project scope, we will elaborate the delimitations of the project, what is part of the project and what is not and another aspects like goals, deliveries, tasks, responsabilities, deadlines and costs.
-
-<br>
-
-<div align="center"><img src="" width=1080 height=600><br><sub>Fig 2 - Project Scope Phases</sub></div>
-
-<br>
-
-#### <a name="chapter1part2"></a>Chapter 1 - Part 2: Project Scope Example
 
 In the example below, we will make a scope of a simple project.
 
@@ -132,6 +124,18 @@ In the example below, we will make a scope of a simple project.
 5. **Assumptions**
 
     InventoryMaster consultants take over installation and configuration of software.
+
+#### <a name="chapter2part2"></a>Chapter 2 - Part 2: Project Detaling
+ 
+ In the example below, we will make a basic description of the project we are using like example.
+
+The pizzeria GoodPi, want to implement a order and delivery system. The client enter in the website of the GoodPi and select the product that he want. This product have a id, name, price, description and image. After the client register the order, this order will generate a localization (latitude and longitude) of the client and a moment that will be send to the courier to the delivery and will be generated to the courier a map with the delivery address of the client. The order have a status and a total of the order. Each order have a localization and a order can have multiple products.
+ 
+#### <a name="chapter2part3"></a>Chapter 2 - Part 3: Entities and Entities Attribute
+
+After the description, check what is will be your entities and entities attributes in the description and highlight the text:
+
+<div align="center"><img src="" width=660 height=600><br><sub>Fig 3 - Project Description Example</sub></div>
 
 ## <a name="chapter2"></a>Chapter 2: Project Description
 
