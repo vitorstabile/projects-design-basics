@@ -275,7 +275,7 @@ The [source code back end][source-url]
 
 <br>
 
-<div align="center"><img src="img/chapter6/java-spring-w796-h350.png" width=796 height=350><br><sub>Fig 11 - Back End Tools</sub></div>
+<div align="center"><img src="img/chapter6/java-spring-w796-h350.png" width=796 height=350><br><sub>Fig 12 - Back End Tools</sub></div>
 
 <br>
 
@@ -285,11 +285,11 @@ The [source code back end][source-url]
 
 <br>
 
-<div align="center"><img src="img/chapter6/java-spring-reactjs-w1037-h676.jpg" width=1037 height=676><br><sub>Fig 12 - Web App Tools</sub></div>
+<div align="center"><img src="img/chapter6/java-spring-reactjs-w1037-h676.jpg" width=1037 height=676><br><sub>Fig 13 - Web App Tools</sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter6/deploy-web-w737-h1079.gif" width=340 height=500><br><sub>Fig 13 - Web App Deploy</sub></div>
+<div align="center"><img src="img/chapter6/deploy-web-w737-h1079.gif" width=340 height=500><br><sub>Fig 14 - Web App Deploy</sub></div>
 
 <br>
 
@@ -297,11 +297,11 @@ The [source code back end][source-url]
 
 <br>
 
-<div align="center"><img src="img/chapter6/java-spring-reactnative-w1037-h676.png" width=1037 height=676><br><sub>Fig 12 - Mobile App Tools</sub></div>
+<div align="center"><img src="img/chapter6/java-spring-reactnative-w1037-h676.png" width=1037 height=676><br><sub>Fig 15 - Mobile App Tools</sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter6/deploy-mobile-w1080-h2400.gif" width=220 height=500><br><sub>Fig 13 - Web App Deploy</sub></div>
+<div align="center"><img src="img/chapter6/deploy-mobile-w1080-h2400.gif" width=220 height=500><br><sub>Fig 16 - Web App Deploy</sub></div>
 
 <br>
 
