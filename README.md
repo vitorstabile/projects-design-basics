@@ -57,17 +57,23 @@ This project have the object to introduce the reader the basics of "How to start
 
 This tutorial will show a basic way in step-by-step form how to start simple project.
 
+This tutorial will not cover more specific concepts of software development (Scrum, Agile and etc ...), just the basics of "How to create software".
+
 ## <a name="chapter1"></a>Chapter 1: Phases of a Project
 
 #### <a name="chapter1part1"></a>Chapter 1 - Part 1: Phases of a Project
 
-The Project Scope is the first part of how to elaborate a project.
+Let's define 5 phases to create a project:
 
-In the project scope, we will elaborate the delimitations of the project, what is part of the project and what is not and another aspects like goals, deliveries, tasks, responsabilities, deadlines and costs.
-
+    - Describe a system overview (Project Scope and Detaling the Project)
+    - Design the UI/UX Project
+    - Specify Use Cases
+    - Design Conceptual Model
+    - Development (Develop back end, web app and mobile app)
+    
 <br>
 
-<div align="center"><img src="" width=1080 height=600><br><sub>Fig 2 - Project Scope Phases</sub></div>
+<div align="center"><img src="img/chapter1/project-phases-w1154-h818.jpg" width=1154 height=818><br><sub>Fig 1 - Phases of a Project</sub></div>
 
 <br>
   
