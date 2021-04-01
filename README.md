@@ -279,7 +279,7 @@ The [source code back end][source-url]
 
 <br>
 
-#### <a name="chapter6part1"></a>Chapter 6 - Part 2: Web App
+#### <a name="chapter6part2"></a>Chapter 6 - Part 2: Web App
 
 [The Web App Deploy][web-app-url]
 
@@ -290,6 +290,18 @@ The [source code back end][source-url]
 <br>
 
 <div align="center"><img src="img/chapter6/deploy-web-w737-h1079.gif" width=340 height=500><br><sub>Fig 13 - Web App Deploy</sub></div>
+
+<br>
+
+#### <a name="chapter6part3"></a>Chapter 6 - Part 3: Mobile App
+
+<br>
+
+<div align="center"><img src="img/chapter6/java-spring-reactnative-w1037-h676.png" width=1037 height=676><br><sub>Fig 12 - Mobile App Tools</sub></div>
+
+<br>
+
+<div align="center"><img src="img/chapter6/deploy-mobile-w1080-h2400.gif" width=220 height=500><br><sub>Fig 13 - Web App Deploy</sub></div>
 
 <br>
 
