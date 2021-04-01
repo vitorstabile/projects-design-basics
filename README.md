@@ -145,7 +145,11 @@ A wireframe is a two-dimensional skeletal outline of a webpage or app. Wireframe
 
 <br>
 
-<div align="center"><img src="https://github.com/vitorstabile/projects-design-basics" width=660 height=600><br><sub>Fig 3 - Project Description Example</sub></div>
+<div align="center"><img src="img/chapter3/wireframe-web-w808-h506.jpg" width=808 height=506><br><sub>Fig 3 - Web App Wireframe Example (https://www.visual-paradigm.com/features/ux-design-and-wireframe-tools/)</sub></div>
+
+<br>
+
+<div align="center"><img src="img/chapter3/wireframe-mobile-w628-h524.jpg" width=628 height=524><br><sub>Fig 4 - Mobile App Wireframe Example (https://www.visual-paradigm.com/features/ux-design-and-wireframe-tools/)</sub></div>
 
 <br>
 
