@@ -184,60 +184,6 @@ In the example below, we will make a use case of the project we are using like e
 3. [OUT] The system inform a map with the route till the delivery location.
 4. [IN] The courier inform that the order was delivered.
 
-## <a name="chapter4"></a>Chapter 4: Project Wireframe
-
-#### <a name="chapter4part1"></a>Chapter 4 - Part 1: Project Wireframe Design
-
-A wireframe is a two-dimensional skeletal outline of a webpage or app. Wireframes provide a clear overview of the page structure, layout, information architecture, user flow, functionality, and intended behaviors. As a wireframe usually represents the initial product concept, styling, color, and graphics are kept to a minimum. Wireframes can be drawn by hand or created digitally, depending on how much detail is required.
-
-<br>
-
-<div align="center"><img src="" width=1295 height=511><br><sub>Fig 6 - Project Wireframe</sub></div>
-
-<br>
-
-#### <a name="chapter4part2"></a>Chapter 4 - Part 2: How to Make a Wireframe
-
-We can make a simple wireframe, using [Figma][figma-url] or [Adobe XD][adobexd-url] to make a simple wireframe. You will make a draft of the user interfaces and the UI/UX designer will develop the user interface propertily.
-
-Down below, is the wireframe example of the home page and the products page in a computer view.
-
-<br>
-
-<div align="center"><img src="" width=1063 height=762><br><sub>Fig 7 - Project Web Wireframe</sub></div>
-
-<br>
-
-Down below, is the wireframe in the mobile app.
-
-<br>
-
-<div align="center"><img src="" width=861 height=755><br><sub>Fig 6 - Project Mobile Wireframe</sub></div>
-
-<br>
-
-#### <a name="chapter4part3"></a>Chapter 4 - Part 3: The Real Wireframe
-
-After present the draft models of the wireframe to UI/UX designer, he will make the properly interface, like below.
-
-<br>
-
-<div align="center"><img src="" width=1103 height=807><br><sub>Fig 8 - UI/UX Web Interface</sub></div>
-
-<br>
-
-<div align="center"><img src="" width=950 height=794><br><sub>Fig 9 - UI/UX Web Interface</sub></div>
-
-<br>
-
-<div align="center"><img src="" width=950 height=421><br><sub>Fig 10 - UI/UX Web Interface</sub></div>
-
-<br>
-
-<div align="center"><img src="" width=1215 height=737><br><sub>Fig 11 - UI/UX App Interface</sub></div>
-
-<br>
-
 ## <a name="chapter5"></a>Chapter 5: Project Domain Model
 
 #### <a name="chapter5part1"></a>Chapter 5 - Part 1: Phases of a Project
