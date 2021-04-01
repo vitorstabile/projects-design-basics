@@ -271,17 +271,25 @@ public class Order implements Serializable {
 
 #### <a name="chapter6part1"></a>Chapter 6 - Part 1: Back end
 
-After all the phases, is time to the development the back end
-
-Tools that was used to development and the [source code][source-url]
-
 <br>
 
 <div align="center"><img src="img/chapter6/java-spring-w796-h350.png" width=796 height=350><br><sub>Fig 11 - Back End Tools</sub></div>
 
 <br>
 
+#### <a name="chapter6part1"></a>Chapter 6 - Part 2: Web App
 
+[The Web App Deploy][ 
+
+<br>
+
+<div align="center"><img src="img/chapter6/java-spring-reactjs-w1037-h676.jpg" width=1037 height=676><br><sub>Fig 12 - Web App Tools</sub></div>
+
+<br>
+
+<div align="center"><img src="img/chapter6/deploy-web-w737-h1079.gif" width=737 height=1079><br><sub>Fig 13 - Web App Deploy</sub></div>
+
+<br>
 
 # Usage <a name="usage"></a>
 
@@ -378,4 +386,5 @@ https://unsplash.com/
 [adobexd-url]: https://www.adobe.com/products/xd.html
 [umlcourse-url]: https://www.udemy.com/course/uml-diagrama-de-classes/
 [devsuperior-url]: https://www.youtube.com/watch?v=PfYifUFmXk8
-[source-url]:https://github.com/vitorstabile/dsdeliver-sds2/blob/main/backend/src/main/java/com/devsuperior/dsdeliver/entities/Order.java
+[source-url]: https://github.com/vitorstabile/dsdeliver-sds2/blob/main/backend/src/main/java/com/devsuperior/dsdeliver/entities/Order.java
+[web-app-url]: https://vitorgarciasds2.netlify.app/
