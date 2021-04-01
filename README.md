@@ -137,13 +137,11 @@ After the description, check what is will be your entities and entities attribut
 
 <div align="center"><img src="img/chapter2/project-description-2-w1099-h484.jpg" width=1099 height=484><br><sub>Fig 2 - Entities of the Project</sub></div>
 
-## <a name="chapter2"></a>Chapter 2: Project Description
+## <a name="chapter3"></a>Chapter 3: Design UI/UX
 
-#### <a name="chapter2part1"></a>Chapter 2 - Part 1: Detailing the Project
+#### <a name="chapter3part1"></a>Chapter 3 - Part 1: Project Wireframe Design
 
-After make the project scope, we have to make a detail description of the project.
-
-Make a description of the project is put all the details of the software (what he will have, the entities and the relation with them). Just make a simple description and pay attention in this details.
+A wireframe is a two-dimensional skeletal outline of a webpage or app. Wireframes provide a clear overview of the page structure, layout, information architecture, user flow, functionality, and intended behaviors. As a wireframe usually represents the initial product concept, styling, color, and graphics are kept to a minimum. Wireframes can be drawn by hand or created digitally, depending on how much detail is required.
 
 <br>
 
@@ -151,11 +149,11 @@ Make a description of the project is put all the details of the software (what h
 
 <br>
 
-#### <a name="chapter2part2"></a>Chapter 2 - Part 2: Example of Project Detaling
+#### <a name="chapter3part2"></a>Chapter 3 - Part 2: How to Make a Wireframe
 
-In the example below, we will make a basic description of the project we are using like example.
+We can make a simple wireframe, using [Figma][figma-url] or [Adobe XD][adobexd-url] to make a simple wireframe. You will make a draft of the user interfaces and the UI/UX designer will develop the user interface propertily.
 
-The pizzeria GoodPi, want to implement a order and delivery system. The client enter in the website of the GoodPi and select the product that he want. This product have a id, name, price, description and image. After the client register the order, this order will generate a localization (latitude and longitude) of the client and a moment that will be send to the courier to the delivery and will be generated to the courier a map with the delivery address of the client. The order have a status and a total of the order. Each order have a localization and a order can have multiple products.
+
 
 #### <a name="chapter2part3"></a>Chapter 2 - Part 3: Entities and Entities Attribute in Description
 
