@@ -157,7 +157,13 @@ A wireframe is a two-dimensional skeletal outline of a webpage or app. Wireframe
 
 We can make a simple wireframe, using [Figma][figma-url] or [Adobe XD][adobexd-url] to make a simple wireframe. You will make a draft of the user interfaces and the UI/UX designer will develop the user interface propertily.
 
+Below, is a wireframe design and the final web app develop.
 
+<br>
+
+<div align="center"><img src="img/chapter3/wireframe-vs-original-w1035-h1061.jpg" width=1035 height=1061><br><sub>Fig 5 - Wireframe Vs Final (https://www.wirify.com/)</sub></div>
+
+<br>
 
 #### <a name="chapter2part3"></a>Chapter 2 - Part 3: Entities and Entities Attribute in Description
 
