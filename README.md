@@ -228,7 +228,7 @@ A domain model is a visual representation of real situation objects in a domain.
 
 <br>
 
-<div align="center"><img src="" width=1438 height=814><br><sub>Fig 10 - Logical Level Domain Model (Relational)</sub></div>
+<div align="center"><img src="img/chapter5/logical-level-domain-model-relational-w931-h315.jpg" width=931 height=315><br><sub>Fig 10 - Logical Level Domain Model (Relational)</sub></div>
 
 <br>
 
