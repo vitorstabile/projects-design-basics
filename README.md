@@ -64,12 +64,11 @@ This tutorial will not cover more specific concepts of software development (Scr
 #### <a name="chapter1part1"></a>Chapter 1 - Part 1: Phases of a Project
 
 Let's define 5 phases to create a project:
-
-    - Describe a system overview (Project Scope and Detaling the Project)
-    - Design the UI/UX Project
-    - Specify Use Cases
-    - Design Conceptual Model
-    - Development (Develop back end, web app and mobile app)
+   - Describe a system overview (Project Scope and Detaling the Project)
+   - Design the UI/UX Project
+   - Specify Use Cases
+   - Design Conceptual Model
+   - Development (Develop back end, web app and mobile app)
     
 <br>
 
