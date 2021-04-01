@@ -25,7 +25,6 @@
     - [Chapter 5 - Part 6: Logical Level Domain Model (Object Oriented)](#chapter5part6)
     - [Chapter 5 - Part 7: Physical Level Domain Model (Relational)](#chapter5part7)
     - [Chapter 5 - Part 8: Physical Level Domain Model (Object Oriented)](#chapter5part8)
-    - [Chapter 5 - Part 9: The Example Domain Model](#chapter5part9)
 9. [Chapter 6: Development](#chapter6)
     - [Chapter 6 - Part 1: Back end](#chapter6part1)
     - [Chapter 6 - Part 2: Web App](#chapter6part2)
@@ -243,11 +242,14 @@ A domain model is a visual representation of real situation objects in a domain.
 
 #### <a name="chapter5part7"></a>Chapter 5 - Part 7: Physical Level Domain Model (Relational)
 
-<br>
-
-<div align="center"><img src="" width=1432 height=811><br><sub>Fig 19 - Physical Level Domain Model (Relational)</sub></div>
-
-<br>
+```sql
+INSERT INTO tb_order (latitude, longitude, moment) VALUES (-23.561680, -46.656139, TIMESTAMP WITH TIME ZONE '2021-01-01T09:00:00Z');
+INSERT INTO tb_order (latitude, longitude, moment) VALUES (-23.561680, -46.656139, TIMESTAMP WITH TIME ZONE '2021-01-01T09:00:00Z');
+INSERT INTO tb_order (latitude, longitude, moment) VALUES (-23.561680, -46.656139, TIMESTAMP WITH TIME ZONE '2021-01-01T09:00:00Z');
+INSERT INTO tb_order (latitude, longitude, moment) VALUES (-23.561680, -46.656139, TIMESTAMP WITH TIME ZONE '2021-01-01T09:00:00Z');
+INSERT INTO tb_order (latitude, longitude, moment) VALUES (-23.561680, -46.656139, TIMESTAMP WITH TIME ZONE '2021-01-01T09:00:00Z');
+INSERT INTO tb_order (latitude, longitude, moment) VALUES (-23.561680, -46.656139, TIMESTAMP WITH TIME ZONE '2021-01-01T09:00:00Z');
+```
 
 #### <a name="chapter5part8"></a>Chapter 5 - Part 8: Physical Level Domain Model (Object Oriented)
 
@@ -260,12 +262,9 @@ public class Order implements Serializable {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
-	private String address;
 	private Double latitude;
 	private Double longitude;
 	private Instant moment;
-	private OrderStatus status;
-	private Double total;
 ```
 
 # Usage <a name="usage"></a>
