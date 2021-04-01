@@ -165,6 +165,14 @@ Below, is a wireframe design and the final web app develop.
 
 <br>
 
+<div align="center"><img src="img/chapter3/real-project-web-w737-h1079.jpg" width=737 height=1079><br><sub>Fig 6 - The Final UI/UX Design</sub></div>
+
+<br>
+
+<div align="center"><img src="img/chapter3/real-project-mobile-w1080-h2400.jpg" width=450 height=1000><br><sub>Fig 7 - The Final UI/UX Design</sub></div>
+
+<br>
+
 ## <a name="chapter4"></a>Chapter 4: Use Cases
 
 #### <a name="chapter4part1"></a>Chapter 4 - Part 1: Use Cases
