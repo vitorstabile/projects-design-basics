@@ -251,11 +251,22 @@ A domain model is a visual representation of real situation objects in a domain.
 
 #### <a name="chapter5part8"></a>Chapter 5 - Part 8: Physical Level Domain Model (Object Oriented)
 
-<br>
-
-<div align="center"><img src="" width=1440 height=818><br><sub>Fig 20 - Physical Level Domain Model (Object Oriented)</sub></div>
-
-<br>
+```java
+@Entity
+@Table(name = "tb_order")
+public class Order implements Serializable {
+	private static final long serialVersionUID = 1L;
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+	private String address;
+	private Double latitude;
+	private Double longitude;
+	private Instant moment;
+	private OrderStatus status;
+	private Double total;
+```
 
 # Usage <a name="usage"></a>
 
