@@ -6,7 +6,9 @@
 2. [About the Project](#abouttheproject)
 3. [Project Description](#projectdescription)
 4. [Chapter 1: Phases of a Project](#chapter1)
-    - [Chapter 1 - Part 1: Phases of a Project](#chapter1part1)
+    - [Chapter 1 - Part 1: Basic Phases of a Project](#chapter1part1)
+    - [Chapter 1 - Part 2: Software Development Life Cycle](#chapter1part2)
+    - [Chapter 1 - Part 2: Software Development Life Cycle](#chapter1part2)
 5. [Chapter 2:  System Overview](#chapter2)
     - [Chapter 2 - Part 1: Project Scope](#chapter2part1)
     - [Chapter 2 - Part 2: Project Detaling](#chapter2part2)
@@ -59,7 +61,7 @@ This tutorial will not cover more specific concepts of software development (Scr
 
 ## <a name="chapter1"></a>Chapter 1: Phases of a Project
 
-#### <a name="chapter1part1"></a>Chapter 1 - Part 1: Phases of a Project
+#### <a name="chapter1part1"></a>Chapter 1 - Part 1: Basic Phases of a Project
 
 Let's define 5 phases to create a project:
    - Describe a system overview (Project Scope and Detaling the Project)
@@ -73,6 +75,25 @@ Let's define 5 phases to create a project:
 <div align="center"><img src="img/chapter1/project-phases-w1154-h818.jpg" width=1154 height=818><br><sub>Fig 1 - Phases of a Project</sub></div>
 
 <br>
+
+#### <a name="chapter1part2"></a>Chapter 1 - Part 2: Software Development Life Cycle
+
+The phases of a project listed above, is a simple overview of how to create a simple project. In enterprise systems, software applications follow the **SDLC, or Software Development Life Cycle**. Is a set of steps used to create software applications and this steps divide the development process into tasks that can then be assigned, completed, and measured.
+
+It’s typically divided into six to eight steps: Planning, Requirements, Design, Build, Document, Test, Deploy, Maintain. Some project managers will combine, split, or omit steps, depending on the project’s scope. These are the core components recommended for all software development projects.
+ 
+SDLC is a way to measure and improve the development process. It allows a fine-grain analysis of each step of the process. This, in turn, helps companies maximize efficiency at each stage. As computing power increases, it places a higher demand on software and developers. Companies must reduce costs, deliver software faster, and meet or exceed their customers’ needs. SDLC helps achieve these goals by identifying inefficiencies and higher costs and fixing them to run smoothly.
+
+<br>
+
+<div align="center"><img src="img/chapter1/sdlc-w820-h350.png" width=820 height=350><br><sub>Fig 2 - The Seven Phases of the SDLC - (<a href='https://phoenixnap.com/blog/software-development-life-cycle#:~:text=Software%20Development%20Life%20Cycle%20is,%2C%20Test%2C%20Deploy%2C%20Maintain.'>Work created by Goran Jevtic</a>) </sub></div>
+</sub></div>
+
+<br>
+
+The Software Development Life Cycle simply outlines each task required to put together a software application. This helps to reduce waste and increase the efficiency of the development process. Monitoring also ensures the project stays on track, and continues to be a feasible investment for the company.
+
+Many companies will subdivide these steps into smaller units. Planning might be broken into technology research, marketing research, and a cost-benefit analysis. Other steps can merge with each other. The Testing phase can run concurrently with the Development phase, since developers need to fix errors that occur during testing.
   
 ## <a name="chapter2"></a>Chapter 2: System Overview
 
