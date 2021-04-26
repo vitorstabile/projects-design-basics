@@ -219,7 +219,7 @@ The pizzeria GoodPi, want to implement a order and delivery system. The client e
 
 After the description, check what is will be your entities and entities attributes in the description and highlight the text:
 
-<div align="center"><img src="img/chapter2/project-description-2-w1099-h484.jpg" width=1099 height=484><br><sub>Fig 2 - Entities of the Project</sub></div>
+<div align="center"><img src="img/chapter2/project-description-2-w1099-h484.jpg" width=1099 height=484><br><sub>Fig 3 - Entities of the Project</sub></div>
 
 ## <a name="chapter3"></a>Chapter 3: Design UI/UX
 
@@ -229,11 +229,11 @@ A wireframe is a two-dimensional skeletal outline of a webpage or app. Wireframe
 
 <br>
 
-<div align="center"><img src="img/chapter3/wireframe-web-w808-h506.jpg" width=808 height=506><br><sub>Fig 3 - Web App Wireframe Example (https://www.visual-paradigm.com/features/ux-design-and-wireframe-tools/)</sub></div>
+<div align="center"><img src="img/chapter3/wireframe-web-w808-h506.jpg" width=808 height=506><br><sub>Fig 4 - Web App Wireframe Example (https://www.visual-paradigm.com/features/ux-design-and-wireframe-tools/)</sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter3/wireframe-mobile-w628-h524.jpg" width=628 height=524><br><sub>Fig 4 - Mobile App Wireframe Example (https://www.visual-paradigm.com/features/ux-design-and-wireframe-tools/)</sub></div>
+<div align="center"><img src="img/chapter3/wireframe-mobile-w628-h524.jpg" width=628 height=524><br><sub>Fig 5 - Mobile App Wireframe Example (https://www.visual-paradigm.com/features/ux-design-and-wireframe-tools/)</sub></div>
 
 <br>
 
@@ -245,15 +245,15 @@ Below, is a wireframe design and the final web app develop.
 
 <br>
 
-<div align="center"><img src="img/chapter3/wireframe-vs-original-w1035-h1061.jpg" width=1035 height=1061><br><sub>Fig 5 - Wireframe Vs Final (https://www.wirify.com/)</sub></div>
+<div align="center"><img src="img/chapter3/wireframe-vs-original-w1035-h1061.jpg" width=1035 height=1061><br><sub>Fig 6 - Wireframe Vs Final (https://www.wirify.com/)</sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter3/real-project-web-w737-h1079.jpg" width=340 height=500><br><sub>Fig 6 - The Final UI/UX Design</sub></div>
+<div align="center"><img src="img/chapter3/real-project-web-w737-h1079.jpg" width=340 height=500><br><sub>Fig 7 - The Final UI/UX Design</sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter3/real-project-mobile-w1080-h2400.jpg" width=220 height=500><br><sub>Fig 7 - The Final UI/UX Design</sub></div>
+<div align="center"><img src="img/chapter3/real-project-mobile-w1080-h2400.jpg" width=220 height=500><br><sub>Fig 8 - The Final UI/UX Design</sub></div>
 
 <br>
 
@@ -297,7 +297,7 @@ A domain model is a visual representation of real situation objects in a domain.
 
 <br>
 
-<div align="center"><img src="img/chapter5/conceptual-domain-model-bussines-w819-h173.jpg" width=819 height=173><br><sub>Fig 8 - Conceptual Domain Model (Business)</sub></div>
+<div align="center"><img src="img/chapter5/conceptual-domain-model-bussines-w819-h173.jpg" width=819 height=173><br><sub>Fig 9 - Conceptual Domain Model (Business)</sub></div>
 
 <br>
 
@@ -305,7 +305,7 @@ A domain model is a visual representation of real situation objects in a domain.
 
 <br>
 
-<div align="center"><img src="img/chapter5/conceptual-domain-model-system-w802-h223.jpg" width=802 height=223><br><sub>Fig 9 - Conceptual Domain Model (System)</sub></div>
+<div align="center"><img src="img/chapter5/conceptual-domain-model-system-w802-h223.jpg" width=802 height=223><br><sub>Fig 10 - Conceptual Domain Model (System)</sub></div>
 
 <br>
 
@@ -313,7 +313,7 @@ A domain model is a visual representation of real situation objects in a domain.
 
 <br>
 
-<div align="center"><img src="img/chapter5/logical-level-domain-model-relational-w931-h315.jpg" width=931 height=315><br><sub>Fig 10 - Logical Level Domain Model (Relational)</sub></div>
+<div align="center"><img src="img/chapter5/logical-level-domain-model-relational-w931-h315.jpg" width=931 height=315><br><sub>Fig 11 - Logical Level Domain Model (Relational)</sub></div>
 
 <br>
 
@@ -321,7 +321,7 @@ A domain model is a visual representation of real situation objects in a domain.
 
 <br>
 
-<div align="center"><img src="img/chapter5/logical-level-domain-model-object-oriented-w829-h274.jpg" width=829 height=274><br><sub>Fig 11 - Logical Level Domain Model (Object Oriented)</sub></div>
+<div align="center"><img src="img/chapter5/logical-level-domain-model-object-oriented-w829-h274.jpg" width=829 height=274><br><sub>Fig 12 - Logical Level Domain Model (Object Oriented)</sub></div>
 
 <br>
 
@@ -360,7 +360,7 @@ The [source code back end][source-url]
 
 <br>
 
-<div align="center"><img src="img/chapter6/java-spring-w796-h350.png" width=796 height=350><br><sub>Fig 12 - Back End Tools</sub></div>
+<div align="center"><img src="img/chapter6/java-spring-w796-h350.png" width=796 height=350><br><sub>Fig 13 - Back End Tools</sub></div>
 
 <br>
 
@@ -370,11 +370,11 @@ The [source code back end][source-url]
 
 <br>
 
-<div align="center"><img src="img/chapter6/java-spring-reactjs-w1037-h676.jpg" width=1037 height=676><br><sub>Fig 13 - Web App Tools</sub></div>
+<div align="center"><img src="img/chapter6/java-spring-reactjs-w1037-h676.jpg" width=1037 height=676><br><sub>Fig 14 - Web App Tools</sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter6/deploy-web-w737-h1079.gif" width=340 height=500><br><sub>Fig 14 - Web App Deploy</sub></div>
+<div align="center"><img src="img/chapter6/deploy-web-w737-h1079.gif" width=340 height=500><br><sub>Fig 15 - Web App Deploy</sub></div>
 
 <br>
 
@@ -382,11 +382,11 @@ The [source code back end][source-url]
 
 <br>
 
-<div align="center"><img src="img/chapter6/java-spring-reactnative-w1037-h676.png" width=1037 height=676><br><sub>Fig 15 - Mobile App Tools</sub></div>
+<div align="center"><img src="img/chapter6/java-spring-reactnative-w1037-h676.png" width=1037 height=676><br><sub>Fig 16 - Mobile App Tools</sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter6/deploy-mobile-w1080-h2400.gif" width=220 height=500><br><sub>Fig 16 - Web App Deploy</sub></div>
+<div align="center"><img src="img/chapter6/deploy-mobile-w1080-h2400.gif" width=220 height=500><br><sub>Fig 17 - Web App Deploy</sub></div>
 
 <br>
 
